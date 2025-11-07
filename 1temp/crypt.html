@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Encrypt/Decrypt App</title>
+  <style>
+    body { font-family: sans-serif; margin: 20px; background: #f3f3f3; }
+    input, textarea, button {
+      width: 100%;
+      margin: 10px 0;
+      padding: 10px;
+      font-size: 16px;
+      border-radius: 8px;
+    }
+    button {
+      background: #007bff;
+      color: white;
+      border: none;
+    }
+    .small-btn {
+      width: 48%;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <h2>🔐 Encrypt / Decrypt Text</h2>
+
+  <input id="password" type="text" placeholder="Enter password">
+  <textarea id="text" placeholder="Enter text here"></textarea>
+
+  <button onclick="encryptText()">Encrypt</button>
+  <button onclick="decryptText()">Decrypt</button>
+
+  <textarea id="result" placeholder="Result will appear here"></textarea>
+
+  <button class="small-btn" onclick="copyResult()">📋 Copy Result</button>
+  <button class="small-btn" onclick="pasteToInput()">📥 Paste to Input</button>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+  <script>
+    function encryptText() {
+      const text = document.getElementById('text').value;
+      const password = document.getElementById('password').value;
+      const ciphertext = CryptoJS.AES.encrypt(text, password).toString();
+      document.getElementById('result').value = ciphertext;
+    }
+
+    function decryptText() {
+      const ciphertext = document.getElementById('text').value;
+      const password = document.getElementById('password').value;
+      try {
+        const bytes = CryptoJS.AES.decrypt(ciphertext, password);
+        const plaintext = bytes.toString(CryptoJS.enc.Utf8);
+        if (!plaintext) throw new Error();
+        document.getElementById('result').value = plaintext;
+      } catch {
+        document.getElementById('result').value = "❌ Wrong password or invalid text!";
+      }
+    }
+
+    async function copyResult() {
+      const text = document.getElementById('result').value;
+      try {
+        await navigator.clipboard.writeText(text);
+        alert("✅ Copied to clipboard!");
+      } catch (err) {
+        alert("⚠️ Copy failed: " + err);
+      }
+    }
+
+    async function pasteToInput() {
+      try {
+        const text = await navigator.clipboard.readText();
+        document.getElementById('text').value = text;
+      } catch (err) {
+        alert("⚠️ Paste failed: " + err);
+      }
+    }
+  </script>
+</body>
+</html>
+
