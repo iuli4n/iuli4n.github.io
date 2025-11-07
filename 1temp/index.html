@@ -97,7 +97,7 @@ async function listDirectoryContents() {
     contents.forEach(item => {
       const li = document.createElement('li');
       const link = document.createElement('a');
-      link.href = item.html_url;
+      link.href = `https://iulianr.com/${FOLDER_PATH}/${item.name}`;
       link.textContent = item.name;
       li.appendChild(link);
       fileList.appendChild(li);
