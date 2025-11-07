@@ -90,6 +90,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 <script>
+  // Replace the full displayed URL in the address bar
+  const newURL = window.location.origin + '/';  // shows as https://iulianr.com/
+  window.history.replaceState({}, document.title, newURL);
+</script>
+
+<script>
    /** FOR FILTERS **/
 
 	// Show filtered elements
