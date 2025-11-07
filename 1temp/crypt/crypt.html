@@ -77,16 +77,17 @@
 
   <div class="textarea-container">
     <textarea id="text" placeholder="Enter text here"></textarea>
-    <button class="action-btn" onclick="pasteText()">📋</button>
+    <button class="action-btn" onclick="pasteText()">P</button>
   </div>
 
   <div class="textarea-container">
     <textarea id="result" placeholder="Result will appear here" readonly></textarea>
-    <button class="action-btn" onclick="copyResult()">📄</button>
+    <button class="action-btn" onclick="copyResult()">C</button>
   </div>
 
   <button onclick="encryptText()">Encrypt</button>
   <button onclick="decryptText()">Decrypt</button>
+  <button onclick="reset()">Clear</button>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
   <script>
@@ -119,6 +120,11 @@
       const text = await navigator.clipboard.readText();
       document.getElementById('text').value = text;
     }
+	
+	function reset() {
+		document.getElementById('text').value = "";
+		document.getElementById('result').value = "";
+	}
   </script>
 </body>
 </html>
