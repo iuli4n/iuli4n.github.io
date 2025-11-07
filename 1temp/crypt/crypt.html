@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!---- TODO NEXT: pad the output with something at beginning/end to confuse base64 decoding -->
 <html>
 <head>
 	<link rel="manifest" href="manifest.json">
@@ -94,14 +95,28 @@
     function encryptText() {
       const text = document.getElementById('text').value;
       const password = document.getElementById('password').value;
-      const ciphertext = CryptoJS.AES.encrypt(text, password).toString();
+      ciphertext = CryptoJS.AES.encrypt(text, password).toString();
+	  
+	  // remove as much as possible from Salted__
+	  const prefix = "U2FsdGVkX";
+	  if (ciphertext.startsWith(prefix)) {
+		ciphertext = ciphertext.slice(prefix.length);
+	  } else {
+	    alert("Could not find the base64 prefix of Salted__");
+	  }
+	  
       document.getElementById('result').value = ciphertext;
     }
 
     function decryptText() {
-      const ciphertext = document.getElementById('text').value;
+      ciphertext = document.getElementById('text').value;
       const password = document.getElementById('password').value;
-      try {
+      
+	  // assume it is not padded with the start of Salted__
+	  const prefix = "U2FsdGVkX";
+	  ciphertext = prefix + ciphertext;
+	  
+	  try {
         const bytes = CryptoJS.AES.decrypt(ciphertext, password);
         const plaintext = bytes.toString(CryptoJS.enc.Utf8);
         if (!plaintext) throw new Error();
