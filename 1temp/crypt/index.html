@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>File List</title>
+<style>
+  body {
+    font-family: system-ui, sans-serif;
+    margin: 0;
+    padding: 1em;
+    background: #fafafa;
+    color: #222;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 1.6em;
+    margin-bottom: 1em;
+  }
+
+  ul#file-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 600px;
+  }
+
+  #file-list li {
+    margin: 0.5em 0;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    overflow: hidden;
+    transition: transform 0.2s;
+  }
+
+  #file-list li:hover {
+    transform: scale(1.02);
+  }
+
+  #file-list a {
+    display: block;
+    padding: 0.8em 1em;
+    text-decoration: none;
+    color: #0078d7;
+    word-wrap: break-word;
+  }
+
+  #file-list a:hover {
+    background-color: #f0f8ff;
+  }
+
+  @media (max-width: 600px) {
+    body {
+      padding: 0.5em;
+    }
+    h1 {
+      font-size: 1.3em;
+    }
+    #file-list a {
+      padding: 0.7em;
+      font-size: 0.95em;
+    }
+  }
+</style>
+</head>
+<body>
+
+<h1>Directory Contents</h1>
+<ul id="file-list">Loading...</ul>
+
+<script>
+const GITHUB_USER = 'iuli4n';
+const GITHUB_REPO = 'iuli4n.github.io';
+const FOLDER_PATH = '1temp/crypt';
+
+async function listDirectoryContents() {
+  const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${FOLDER_PATH}`;
+  const fileList = document.getElementById('file-list');
+  fileList.innerHTML = ''; // Clear "Loading..."
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) throw new Error(`GitHub API error: ${response.status}`);
+
+    const data = await response.json();
+    if (!Array.isArray(data)) throw new Error('Invalid API response');
+
+    const contents = data.filter(item => item.type === 'file' || item.type === 'dir');
+
+    if (contents.length === 0) {
+      fileList.innerHTML = '<li>No files found.</li>';
+      return;
+    }
+
+    contents.forEach(item => {
+      const li = document.createElement('li');
+      const link = document.createElement('a');
+      link.href = `https://iulianr.com/${FOLDER_PATH}/${item.name}`;
+      link.textContent = item.name;
+      li.appendChild(link);
+      fileList.appendChild(li);
+    });
+
+  } catch (err) {
+    console.error('Error fetching directory contents:', err);
+    fileList.innerHTML = '<li>Error loading file list.</li>';
+  }
+}
+
+listDirectoryContents();
+</script>
+
+</body>
+</html>

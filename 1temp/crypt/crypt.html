@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="manifest" href="manifest.json">
+	<meta name="theme-color" content="#007bff">
+
   <meta charset="UTF-8">
   <title>Encrypt/Decrypt App</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -58,7 +61,17 @@
     }
   </style>
 </head>
+
+
 <body>
+	<script>
+	  if ("serviceWorker" in navigator) {
+		navigator.serviceWorker.register("service-worker.js")
+		  .then(() => console.log("Service Worker registered"))
+		  .catch(err => console.error("SW registration failed", err));
+	  }
+	</script>
+
   <h2>🔐 Encrypt / Decrypt Text</h2>
   <input id="password" type="text" placeholder="Enter password">
 
