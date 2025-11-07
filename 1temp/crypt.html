@@ -1,41 +1,100 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <title>Encrypt/Decrypt App</title>
   <style>
-    body { font-family: sans-serif; margin: 20px; background: #f3f3f3; }
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 16px;
+      background: #f3f3f3;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+      box-sizing: border-box;
+    }
+
+    h2 {
+      text-align: center;
+      width: 100%;
+      margin-bottom: 12px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 480px;
+      display: flex;
+      flex-direction: column;
+    }
+
     input, textarea, button {
       width: 100%;
-      margin: 10px 0;
-      padding: 10px;
+      margin: 8px 0;
+      padding: 12px;
       font-size: 16px;
       border-radius: 8px;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
     }
+
+    textarea {
+      resize: vertical;
+      min-height: 100px;
+    }
+
     button {
       background: #007bff;
       color: white;
       border: none;
+      cursor: pointer;
+      transition: background 0.2s;
     }
-    .small-btn {
-      width: 48%;
-      display: inline-block;
+
+    button:hover {
+      background: #005fcc;
+    }
+
+    .small-buttons {
+      display: flex;
+      justify-content: space-between;
+      gap: 4%;
+    }
+
+    .icon-btn {
+      flex: 1;
+      margin-top: 4px;
+      background: #555;
+      font-size: 20px;
+      padding: 10px 0;
+    }
+
+    @media (max-width: 480px) {
+      input, textarea, button {
+        font-size: 15px;
+        padding: 10px;
+      }
     }
   </style>
 </head>
 <body>
   <h2>🔐 Encrypt / Decrypt Text</h2>
+  <div class="container">
+    <input id="password" type="text" placeholder="Enter password">
+    <textarea id="text" placeholder="Enter text here"></textarea>
 
-  <input id="password" type="text" placeholder="Enter password">
-  <textarea id="text" placeholder="Enter text here"></textarea>
+    <button onclick="encryptText()">Encrypt</button>
+    <button onclick="decryptText()">Decrypt</button>
 
-  <button onclick="encryptText()">Encrypt</button>
-  <button onclick="decryptText()">Decrypt</button>
+    <textarea id="result" placeholder="Result will appear here"></textarea>
 
-  <textarea id="result" placeholder="Result will appear here"></textarea>
-
-  <button class="small-btn" onclick="copyResult()">📋 Copy Result</button>
-  <button class="small-btn" onclick="pasteToInput()">📥 Paste to Input</button>
+    <div class="small-buttons">
+      <button class="icon-btn" title="Copy Result" onclick="copyResult()">📋</button>
+      <button class="icon-btn" title="Paste to Input" onclick="pasteToInput()">📥</button>
+    </div>
+  </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
   <script>
@@ -63,21 +122,15 @@
       const text = document.getElementById('result').value;
       try {
         await navigator.clipboard.writeText(text);
-        alert("✅ Copied to clipboard!");
-      } catch (err) {
-        alert("⚠️ Copy failed: " + err);
-      }
+      } catch (_) {}
     }
 
     async function pasteToInput() {
       try {
         const text = await navigator.clipboard.readText();
         document.getElementById('text').value = text;
-      } catch (err) {
-        alert("⚠️ Paste failed: " + err);
-      }
+      } catch (_) {}
     }
   </script>
 </body>
 </html>
-
