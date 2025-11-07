@@ -1,0 +1,41 @@
+// Configuration: Replace with your GitHub username, repository, and the target directory path
+        const GITHUB_USER = 'iuli4n';
+        const GITHUB_REPO = 'iuli4n.github.io';
+        const FOLDER_PATH = '1temp'; // Use '' for the root directory or 'your/folder/path' for a subdirectory
+
+        async function listDirectoryContents() {
+            const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${FOLDER_PATH}`;
+            const fileList = document.getElementById('file-list');
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`GitHub API error: ${response.status}`);
+                }
+                const data = await response.json();
+
+                if (Array.isArray(data)) {
+                    // Filter out directories if needed, or list both
+                    const contents = data.filter(item => item.type === 'file' || item.type === 'dir');
+
+                    contents.forEach(item => {
+                        const listItem = document.createElement('li');
+                        const link = document.createElement('a');
+                        link.href = item.html_url; // Link to the file/directory on GitHub
+                        // For a link directly to the raw content on your gh-pages site:
+                        // link.href = `https://${GITHUB_USER}.github.io/${GITHUB_REPO}/${item.path}`;
+
+                        link.textContent = item.name;
+                        listItem.appendChild(link);
+                        fileList.appendChild(listItem);
+                    });
+                } else {
+                    fileList.textContent = 'Could not retrieve directory contents.';
+                }
+            } catch (error) {
+                console.error("Error fetching directory contents:", error);
+                fileList.textContent = 'Error loading file list.';
+            }
+        }
+
+        listDirectoryContents();
