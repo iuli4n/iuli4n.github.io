@@ -1,5 +1,5 @@
 // service-worker.js
-const CACHE_NAME = "encrypt-app-cache-v5";
+const CACHE_NAME = "encrypt-app-cache-v6";
 const FILES_TO_CACHE = [
   "./",
   "./crypt.html",
