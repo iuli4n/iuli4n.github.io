@@ -92,32 +92,74 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
   <script>
+  
+    // XOR the password byte into the ciphertext bytes. returns result in base64.
+    function xorCP(cipherBytesWA, passwordBytesWA) {
+	 
+	 const xorcipherBytes = cipherBytesWA.words.map( (word, i) => {
+		const pwWord = passwordBytesWA.words[i % passwordBytesWA.words.length];
+		return word ^ pwWord;
+	  });
+	  
+	  const wordcipherWA = CryptoJS.lib.WordArray.create(xorcipherBytes, cipherBytesWA.sigBytes);
+	
+	  // back to base64
+	  let ciphertext = CryptoJS.enc.Base64.stringify(wordcipherWA);
+	  return ciphertext;
+	}
+	
     function encryptText() {
-      const text = document.getElementById('text').value;
+      
+	  // STEP 1 - encrypt it
+
+	  const text = document.getElementById('text').value;
       const password = document.getElementById('password').value;
-      ciphertext = CryptoJS.AES.encrypt(text, password).toString();
+      let ciphertextB64 = CryptoJS.AES.encrypt(text, password).toString(); // this is actually Salted__nonce+ciphertext
+
+      // STEP 2 - obfuscate by removing Salted__
+
+	  let cipherBytesWA = CryptoJS.enc.Base64.parse(ciphertextB64);
 	  
-	  // remove as much as possible from Salted__
-	  const prefix = "U2FsdGVkX";
-	  if (ciphertext.startsWith(prefix)) {
-		ciphertext = ciphertext.slice(prefix.length);
-	  } else {
-	    alert("Could not find the base64 prefix of Salted__");
-	  }
+	  // Remove the "Salted__" prefix (8 bytes = 2 words)
+		cipherBytesWA.words = cipherBytesWA.words.slice(2);
+		cipherBytesWA.sigBytes -= 8;
 	  
-      document.getElementById('result').value = ciphertext;
+	  
+	  // STEP 3 - obfuscate by XOR it with password
+  	  
+	  const passwordBytesWA = CryptoJS.enc.Utf8.parse(password);
+	  ciphertextB64 = xorCP(cipherBytesWA, passwordBytesWA);
+
+	  
+      document.getElementById('result').value = ciphertextB64;
     }
 
     function decryptText() {
-      ciphertext = document.getElementById('text').value;
+      let ciphertextB64 = document.getElementById('text').value;
       const password = document.getElementById('password').value;
-      
-	  // assume it is not padded with the start of Salted__
-	  const prefix = "U2FsdGVkX";
-	  ciphertext = prefix + ciphertext;
+      		 
+      // STEP 3 - unobfuscate by XORing with password
+	  
+	  let cipherBytesWA = CryptoJS.enc.Base64.parse(ciphertextB64);
+	  const passwordBytesWA = CryptoJS.enc.Utf8.parse(password);
+	  
+	  ciphertextB64 = xorCP(cipherBytesWA, passwordBytesWA);
+	
+	
+	  // STEP 2 - unobfuscate by adding back Salted__
+
+	  cipherBytesWA = CryptoJS.enc.Base64.parse(ciphertextB64);
+	  let prefixWA = CryptoJS.enc.Latin1.parse("Salted__");
+	  
+	  prefixWA.concat(cipherBytesWA);
+	  cipherBytesWA = prefixWA;
+
+	  ciphertextB64 = CryptoJS.enc.Base64.stringify(cipherBytesWA);
+
+  	  // STEP 1 - decrypt
 	  
 	  try {
-        const bytes = CryptoJS.AES.decrypt(ciphertext, password);
+        const bytes = CryptoJS.AES.decrypt(ciphertextB64, password);
         const plaintext = bytes.toString(CryptoJS.enc.Utf8);
         if (!plaintext) throw new Error();
         document.getElementById('result').value = plaintext;
