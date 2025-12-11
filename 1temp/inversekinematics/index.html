@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<body>
+Calculates angles for robot to reach a specific position, with stabilization.
+<br/>
+<i>INSTRUCTIONS: Move mouse. Hold mouse to change base; robot stays stabilized.
+</i>
+<br/>
+
+<canvas id="myCanvas" width="500" height="300" style="border:1px solid grey"></canvas>
+
+<br/>
+angle1 <input type="range" min="0" max="180" id="range1" value="15" style="accent-color:green;">
+Len1: <textarea rows=1 cols=5 onchange="L1=this.value;drawRobot();">
+150</textarea>
+<br/>
+angle2 <input type="range" min="0" max="180" id="range2" value="15" style="accent-color:blue;">
+Len2: <textarea rows=1 cols=5 onchange="L2=this.value;drawRobot();">
+100</textarea>
+<br/>
+angle3 <input type="range" min="0" max="180" id="range3" value="15" style="accent-color:red;">
+Len1: <textarea rows=1 cols=5 onchange="L3=this.value;drawRobot();">
+75</textarea>
+<br/>
+angle4 <input type="range" min="0" max="180" id="range4" value="15" style="accent-color:black;">
+
+<br/>
+<br/>
+<textarea cols="50" rows="5" id="console"> test </textarea>
+
+<script src="script.js"></script>
+
+
+<script>
+
+  let canvasElem = document.querySelector("canvas");
+  canvasElem.addEventListener("mousemove", function (e) {
+    respondToMouseMove(canvasElem);
+  }); 
+
+
+// setup UI
+
+
+var rangeA1 = document.querySelector('#range1');
+rangeA1.addEventListener('input', function() {
+  a1 = this.value;
+  drawRobot();
+}, false);
+var rangeA2 = document.querySelector('#range2');
+rangeA2.addEventListener('input', function() {
+  a2 = this.value;
+  drawRobot();
+}, false);
+var rangeA3 = document.querySelector('#range3');
+rangeA3.addEventListener('input', function() {
+  a3 = this.value;
+  drawRobot();
+}, false);
+var rangeA4 = document.querySelector('#range4');
+rangeA4.addEventListener('input', function() {
+  a4 = this.value;
+  drawRobot();
+}, false);
+
+
+function updateAngleSliders() {
+  rangeA1.value = a1;
+  rangeA2.value = a2;
+  rangeA3.value = a3;
+  rangeA4.value = -a4;
+}
+
+function getCircleFrom(ox, oy, r, angle) {
+   dx = Math.sin(angle * DEG2RAD) * r;
+   dy = Math.cos(angle * DEG2RAD) * r;
+   return [ox+dx, oy+dy];
+}
+
+function mouseCircle(originx, originy) {
+  
+  for (let a = 0; a < 360; a += 10) {
+   var [x,y] = getCircleFrom(originx, originy, 50, a);
+   drawCircle(x,y, 2);
+  } 
+	//printAdd("Hello");
+}
+
+
+
+
+
+  // calculates IK for the last 2 joints L1,L2
+  // Returns false whenever the joint can't be moved there
+  function calculateIK2(destX, destY) {
+    var x = destX-OriginX;
+    var y = destY-OriginY;
+    var H = Math.sqrt(x*x + y*y);
+
+    var roth = Math.asin( (OriginY-destY) / H) * RAD2DEG;
+
+    var alpha = Math.acos( (L1*L1 + H*H - L2*L2) / (2*L1*H)) * RAD2DEG;
+    if (isNaN(alpha)) return [false,-1,-1,-1,-1];
+    a1 = (90-alpha-roth);
+    //if (a1<10) return [false,-1,-1,-1,-1];
+
+    var delta = Math.acos( (L1*L1 + L2*L2 - H*H) / (2*L1*L2)) * RAD2DEG;
+    if (isNaN(delta)) return [false,-1,-1,-1,-1];
+    a2 = 180-delta;
+    // constraint for a2 
+    if (a2<30) return [false,-1,-1,-1,-1];
+
+    //printAdd(a1);
+    
+    var gamma = 180-alpha-delta;
+    
+    var ae = Math.asin( x / H) * RAD2DEG;
+    //printAdd(ae);
+    
+    return [true, alpha, delta, gamma, ae];
+  }
+
+  var mouseIsDown = false;
+  document.addEventListener('mousedown', function(event) {
+    mouseIsDown = true;
+    //printAdd(`Mouse button pressed: ${event.button}`);
+  });
+  document.addEventListener('mouseup', function(event) {
+    mouseIsDown = false;
+    //printAdd(`Mouse button pressed: ${event.button}`);
+  });
+
+ 
+  var lastRobotDestX, lastRobotDestY;
+  
+  function respondToMouseMove(canvasElem) {
+  	let [x,y] = getMousePosition(canvasElem);
+    printAdd("Coordinate (" + x+ ", " + y+")");
+
+    drawRobot(); // show the robot
+    
+    
+    if (mouseIsDown) {
+      // moving origin in this case
+      OriginX = x; OriginY = y;
+      
+    } else {
+      
+      lastRobotDestX = x;
+      lastRobotDestY = y;
+    }
+    
+    
+    var targetX=lastRobotDestX, targetY=lastRobotDestY;
+    
+    var kinematicsSuccess = false;
+    
+    // calculate a circle around the mouse, and see if the robot can reach any of those points
+    for (let a = 180; a < 300; a += 0.1) {
+     var [circlex,circley] = getCircleFrom(targetX,targetY, L3, a);
+     //drawCircle(circlex,circley, 1,"lightgray");
+     
+     var [success, aalpha, adelta, agamma, ae] = calculateIK2(circlex,circley);
+     kinematicsSuccess = success;
+     if (success) {
+       // done finding an angle
+       // but need to calculate a3 bend
+       var af = Math.asin( (targetX-circlex) / L3 ) * RAD2DEG;
+       a3 = 180 - agamma - ae - af;
+       a4 = -(90-af);
+       
+       //a3 = -a3;
+     	 //printAdd("("+agamma+","+ae+","+af+")");
+       
+       updateAngleSliders();
+       break;
+     }
+    } 
+
+    
+    
+    drawCircle(x,y,2,kinematicsSuccess?(x>OriginX?"black":"red"):"red"); // at the mouse position
+    if (!kinematicsSuccess || targetX<=OriginX) {
+      printAdd("Can't reach there");
+    }
+    
+  }
+
+
+        
+
+</script>
+
+
+</body>
+</html>
