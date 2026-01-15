@@ -1,0 +1,12 @@
+Following is a list of compiled entries from my diaries.
+This sounds pretty gay, I'm sure, but you may find them useful.
+
+Formats are as follows
+filename: usually topic name, or if it's only a single entry, it will be 
+entry_entryname
+file entry: 
+  usually they'll have names in CAPS; following will be a date in some format, and 
+sometimes a time (pay attention to the dates)
+  sometimes there will be "---" at the begining of lines, these mean passing of time, 
+but still in the same entry
+  you'll rarily see [], which mean that something has been omitted

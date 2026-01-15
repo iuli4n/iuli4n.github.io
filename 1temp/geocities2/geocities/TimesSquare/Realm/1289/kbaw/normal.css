@@ -1,0 +1,66 @@
+/* You're looking at Vegeta's CSS file.
+ If you have any doubts, e-mail me to vegeta@mindless.com or admin@ie4.com.
+ I'll be glad to help you. ;-) */
+ 
+.title {
+        width: 300px;
+        height: 10px;
+        margin-bottom: 30px;
+        border-left-width: 2px;
+        border-bottom: 2px solid #FFDD80;
+        border-left: 2px solid #FFDD80;
+        color: #DDFF80; important;
+        padding: 10px;
+        }
+ 
+body {
+        margin: 5px 5px 5px 5px;
+        background: black;
+        color: #dddaaa;
+        }
+a:hover {
+        color: #DDDDDD !important;
+        font-weight: bold;
+        }
+ 
+a:active {
+        text-decoration: underline;
+        font-weight: bold;
+        color: #FF80DD;
+        }
+ 
+a {
+        text-decoration: none;
+        color: #FBBFB4;
+        }
+ 
+input {
+        background: black;
+        color: gold;
+        font: Tahoma, Verdana, Arial;
+        font-size: 12;
+        border: 2px inset grey;
+        }
+input.buttonhover {
+        background: black;
+        color: greenyellow;
+        font: Georgia, Times New Roman !important;
+        font-size: 12;
+        border: 2px inset red;
+        cursor: hand;
+        }
+ 
+select {
+        background: #DDFFFF;
+        color: navy;
+        font: Tahoma,Verdana,Arial;
+        font-size: 12;
+        border: 2px inset lime;
+        }
+ 
+textarea {
+        background: #DDDDDD;
+        color: navy;
+        font: Tahoma,Verdana,Arial;
+        font-size: 12;
+        }

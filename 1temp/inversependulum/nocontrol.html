@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Inverted Pendulum</title>
+<style>
+  body { margin: 0; background: #111; overflow: hidden; }
+  canvas { display: block; }
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+
+<script>
+const canvas = document.getElementById("c");
+const ctx = canvas.getContext("2d");
+
+function resize() {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+}
+resize();
+window.addEventListener("resize", resize);
+
+/* =====================
+   Parameters
+   ===================== */
+const g = 2000;
+const L = 250; // length of pole
+const dragCoeff = 3.0;
+const EPS = 1e-6;
+
+/* =====================
+   Base state
+   ===================== */
+let base = {
+  x: canvas.width / 2,
+  y: canvas.height * 0.75,
+  vx: 0,
+  ax: 0,
+  prevVx: 0
+};
+
+/* =====================
+   Pendulum state
+   ===================== */
+let theta = 0;
+let omega = 0;
+
+/* =====================
+   Time
+   ===================== */
+let lastTime = performance.now();
+
+/* =====================
+   BASE MOTION API
+   ===================== */
+/*
+   Call this function to move the base.
+   x2 = desired x position
+   dt = timestep in seconds
+*/
+function moveBaseTo(x2, dt) {
+  const dx = x2 - base.x;
+
+  const vx = dx / dt;
+  const ax = (vx - base.prevVx) / dt;
+
+  base.x = x2;
+  base.vx = vx;
+  base.ax = ax;
+  base.prevVx = vx;
+}
+
+/* =====================
+   Mouse input (one possible driver)
+   ===================== */
+let dragging = false;
+let lastMouseX = 0;
+let lastMouseTime = performance.now();
+
+canvas.addEventListener("mousedown", e => {
+  if (Math.abs(e.clientY - base.y) < 20 &&
+      Math.abs(e.clientX - base.x) < 20) {
+    dragging = true;
+    lastMouseX = e.clientX;
+    lastMouseTime = performance.now();
+  }
+});
+
+canvas.addEventListener("mousemove", e => {
+  if (!dragging) return;
+
+  const now = performance.now();
+  const dt = Math.max((now - lastMouseTime) / 1000, 1e-4);
+
+  moveBaseTo(e.clientX, dt);
+
+  lastMouseX = e.clientX;
+  lastMouseTime = now;
+});
+
+canvas.addEventListener("mouseup", () => dragging = false);
+canvas.addEventListener("mouseleave", () => dragging = false);
+
+/* =====================
+   Simulation loop
+   ===================== */
+function step(t) {
+  const dt = Math.min((t - lastTime) / 1000, 0.02);
+  lastTime = t;
+
+  if (
+    Math.abs(theta) < EPS &&
+    Math.abs(omega) < EPS &&
+    Math.abs(base.ax) < EPS
+  ) {
+    theta = 0;
+    omega = 0;
+  } else {
+    const alpha =
+      (g / L) * Math.sin(theta)
+	  
+	  - (base.ax / L) * Math.cos(theta)
+      
+	  - dragCoeff * omega;
+
+    omega += alpha * dt;
+    theta += omega * dt;
+  }
+
+  // decay base acceleration when not driven
+  base.ax *= 0.9;
+
+  draw();
+  requestAnimationFrame(step);
+}
+
+/* =====================
+   Rendering
+   ===================== */
+function draw() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  const x2 = base.x + L * Math.sin(theta);
+  const y2 = base.y - L * Math.cos(theta);
+
+  ctx.strokeStyle = "#fff";
+  ctx.lineWidth = 4;
+  ctx.beginPath();
+  ctx.moveTo(base.x, base.y);
+  ctx.lineTo(x2, y2);
+  ctx.stroke();
+
+  ctx.fillStyle = dragging ? "#ff5555" : "#00ffcc";
+  ctx.beginPath();
+  ctx.arc(base.x, base.y, 10, 0, Math.PI * 2);
+  ctx.fill();
+
+  ctx.strokeStyle = "#444";
+  ctx.beginPath();
+  ctx.moveTo(0, base.y);
+  ctx.lineTo(canvas.width, base.y);
+  ctx.stroke();
+}
+
+requestAnimationFrame(step);
+</script>
+</body>
+</html>
