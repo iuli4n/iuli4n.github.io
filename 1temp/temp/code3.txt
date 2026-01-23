@@ -1,0 +1,1113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nervous System Reboot</title>
+    <meta name="description" content="The Science &amp; Soul of Thriving">
+	<meta name="keywords" content="Nervous System Reboot, The Science &amp; Soul of Thriving, Heart Mind Institute">
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="shortcut icon" href="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/31151838_6924e25c86e26_custom-domain.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="Heart Mind Institute">
+    <meta property="og:title" content="Nervous System Reboot">
+    <meta property="og:description" content="The Science &amp; Soul of Thriving">
+    <meta property="og:image" content="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/649067015792NSR_25_Main_-_No_Date_1200x600.png">
+
+    <!-- Font icons preconnect -->
+    <link rel="preconnect" href="//app.kartra.com" crossorigin>
+    <link rel="preconnect" href="//fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="//fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="//d2uolguxr56s4e.cloudfront.net" crossorigin>
+
+    <link rel="dns-prefetch" href="//app.kartra.com">
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//d2uolguxr56s4e.cloudfront.net">
+
+    <!--
+        Google fonts are computed and loaded on page build via save.js
+        Individual stylesheets required are listed in /css/new/css/pages/skeleton.css
+    -->
+
+    <!--<link href="//d2uolguxr56s4e.cloudfront.net/internal/pages/css/skeleton.min.css" rel="stylesheet">-->
+    <link type="text/css" rel="preload" href="https://fonts.googleapis.com/css?family=Dosis:300,300i,400,400i,600,600i,700,700i,900,900i|Roboto:300,300i,400,400i,600,600i,700,700i,900,900i|Lato:300,300i,400,400i,600,600i,700,700i,900,900i|Raleway:300,300i,400,400i,600,600i,700,700i,900,900i|Droid+Sans:300,300i,400,400i,600,600i,700,700i,900,900i|Droid+Serif:300,300i,400,400i,600,600i,700,700i,900,900i|Roboto+Condensed:300,300i,400,400i,600,600i,700,700i,900,900i|Nunito:300,300i,400,400i,600,600i,700,700i,900,900i|Oswald:300,300i,400,400i,600,600i,700,700i,900,900i|Terminal+Dosis+Light:300,300i,400,400i,600,600i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,900,900i|Maven+Pro:300,300i,400,400i,600,600i,700,700i,900,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'"><link rel="stylesheet" href="//d2uolguxr56s4e.cloudfront.net/internal/pages/css/new_bootstrap.css">
+
+    <link rel="preload" href="//d2uolguxr56s4e.cloudfront.net/internal/pages/css/kartra_components.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="//app.kartra.com/css/new/css/pages/font-awesome.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+    <noscript>
+        <link rel="stylesheet" href="//d2uolguxr56s4e.cloudfront.net/internal/pages/css/kartra_components.css">
+        <link rel="stylesheet" href="//app.kartra.com/css/new/css/pages/font-awesome.css">
+    <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis:300,300i,400,400i,600,600i,700,700i,900,900i|Roboto:300,300i,400,400i,600,600i,700,700i,900,900i|Lato:300,300i,400,400i,600,600i,700,700i,900,900i|Raleway:300,300i,400,400i,600,600i,700,700i,900,900i|Droid+Sans:300,300i,400,400i,600,600i,700,700i,900,900i|Droid+Serif:300,300i,400,400i,600,600i,700,700i,900,900i|Roboto+Condensed:300,300i,400,400i,600,600i,700,700i,900,900i|Nunito:300,300i,400,400i,600,600i,700,700i,900,900i|Oswald:300,300i,400,400i,600,600i,700,700i,900,900i|Terminal+Dosis+Light:300,300i,400,400i,600,600i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,900,900i|Maven+Pro:300,300i,400,400i,600,600i,700,700i,900,900i&display=swap">
+</noscript>
+    
+    <script>
+        /*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+        (function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}var rp=loadCSS.relpreload={};rp.support=function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=false}return function(){return ret}}();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3e3)};rp.poly=function(){if(rp.support()){return}var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",true);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}else{w.loadCSS=loadCSS}})(typeof global!=="undefined"?global:this);
+
+        window.global_id = 'cO6NC0Dn9R9c';
+        window.secure_base_url = '//app.kartra.com/';
+    </script>
+    
+    <!--headerIncludes-->
+    <style>
+    .overlay_builder {
+        position: relative;
+    }
+
+    .kartra_optin_footer-poweredby > p {
+        font-size: 12px;
+        line-height: 130%;
+        font-weight: 300;
+        color: #333;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+	body.modal-open{
+		overflow:hidden;
+		overflow-x:;
+	}
+
+    
+	#page_background_color
+	{
+		background-color:#ffffff;
+	}
+	body
+	{
+		background-color:#ffffff;
+		
+	}
+	
+
+    [data-effect] {
+        visibility: hidden;
+    }
+    
+    </style>
+    <script>
+        var google_analytics = null;
+        localStorage.setItem('summit_name','NSR 2026');
+'use strict';(function(w,d,s,l,i,x,y,z){w[l]=w[l]||[];w[l].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src="https://load."+x+"/"+y+"?id=GTM-"+i+dl;j.onerror=function(){var fs=d.createElement(s);fs.async=true;fs.src="https://"+x+"/"+z+"?id="+i+dl;f.parentNode.insertBefore(fs,f)};f.parentNode.insertBefore(j,f)})(window,document,"script","dataLayer", "M76MLBNN","d.nervoussystemrebootsummit.com","uyfieply.js","ply.js");
+    </script>
+    <script src="/js/build/front/pages/skeleton-above.js"></script>
+<link rel="preconnect" href="//vip.timezonedb.com"><link rel="dns-prefetch" href="//vip.timezonedb.com"><style id="pagesCustomCSS">.kartra_item_info--padding-left-tiny{
+    padding-left:0px;
+}
+
+#zKU3Q0QHJL{
+     margin-left:-15px;
+    margin-right:-15px;
+}
+
+#zKU3Q0QHJL a{
+    font-size: 17px;
+    font-weight: 700;
+    padding:10px;
+    transition: transform 0.5s;
+
+}
+
+#zKU3Q0QHJL a:hover {
+    transform: scale(1.08); 
+    
+}</style>
+</head>
+<body>
+
+    <div style="height:0px;width:0px;opacity:0;position:fixed" class="js_kartra_trackable_object" data-kt-type="kartra_page_tracking" data-kt-value="cO6NC0Dn9R9c" data-kt-owner="Rg3GX6gP">
+    </div>
+    <div id="page" class="page container-fluid">
+        <div id="page_background_color" class="row">
+<div class="content content--popup-overflow-visible dark" style="background-color: rgb(255, 255, 255); padding: 0px;" id="_feox29wu9">
+        <div class="overflow_background_wrapper">
+            <div class="background_changer background_changer--blur0" style="background-image: none; opacity: 1;" alt=""></div>
+            <div class="background_changer_overlay" style="background-image: none;"></div>
+        </div>
+        <nav class="navbar navbar-inverse navbar-light"><div class="container nav-elem-wrapper nav-elem-wrapper--md-sm-flex nav-elem-wrapper--md-sm-vertical-center nav-elem-wrapper--md-sm-justify-content-space-between">
+                <div class="navbar-header nav-elem-col">
+                    <div data-component="image" href="javascript: void(0);">
+                        <img class="kartra_image kartra_image--logo kartra_image--margin-bottom-none pull-left background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" style="margin: 0px; opacity: 1; width: 158px; max-width: 100%; height: auto; border-radius: 0px;" alt="" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/44867956994HMS2_H_1000px.png">
+</div>
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar_h8A4j0f89T" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div id="navbar_h8A4j0f89T" class="navbar-collapse nav-elem-col navbar-collapse--md-sm-padding-right-none js_kartra_component_holder collapse" aria-expanded="false" style="height: 1px;">
+                    <div class="navbar-collapse__inner navbar-collapse__inner--sm-padding-top-big-tiny navbar-collapse__inner--sm-padding-bottom-big-tiny navbar-collapse__inner--md-vertical-center navbar-collapse__inner--md-row-reverse js_kartra_component_holder">
+                        <ul class="nav navbar-nav navbar-right navbar-nav--bottom-border-menu">
+<li class="propClone">
+                                <a class="nav__link--padding-top-bottom-extra-medium nav__link--only-sm-padding-top-bottom-special-medium nav__link--rounded-none nav__link--padding-left-right-none nav__link--md-margin-left-right-15px nav__link--style-dark nav__link--style-two toggle_pagelink" href="https://app.kartra.com/redirect_to/?asset=page&amp;id=VakLv7sIHna4" data-color="rgb(16, 63, 96)" data-frame-id="_feox29wu9" onmouseover="this.style.color='rgb(246, 140, 13)';this.style.borderColor='rgb(246, 140, 13)'" onmouseout="this.style.color='rgb(16, 63, 96)';this.style.borderColor='transparent'" style="color: rgb(16, 63, 96); border-color: transparent; font-weight: 700; font-family: Dosis;" target="_blank" data-project-id="56" data-page-id="4777">Schedule</a>
+                            </li>
+<li class="propClone">
+                                <a class="nav__link--padding-top-bottom-extra-medium nav__link--only-sm-padding-top-bottom-special-medium nav__link--rounded-none nav__link--padding-left-right-none nav__link--md-margin-left-right-15px nav__link--style-dark nav__link--style-two toggle_pagelink" href="https://app.kartra.com/redirect_to/?asset=page&amp;id=SYPCqf8J719c" data-color="rgb(16, 63, 96)" data-frame-id="_feox29wu9" onmouseover="this.style.color='rgb(246, 140, 13)';this.style.borderColor='rgb(246, 140, 13)'" onmouseout="this.style.color='rgb(16, 63, 96)';this.style.borderColor='transparent'" style="color: rgb(16, 63, 96); border-color: transparent; font-weight: 700; font-family: Dosis;" target="_blank" data-project-id="56" data-page-id="4781">FAQ</a>
+                            </li>
+                            
+
+
+                            
+                            
+                            
+                            
+                        </ul>
+</div>
+                </div>
+                <!--/.nav-collapse -->
+            </div>
+        </nav>
+</div>
+<div class="content content--padding-giant light" style="background-color: rgb(0, 0, 0); padding: 30px 0px;" id="_wimn1yg7v">
+                <style id="pagesInternalCSS">
+	.kartra_text--tree-poppy{
+		color: #FFA013;
+	}
+	.background-item--border-bottom-1px{
+	    border-bottom: 1px solid rgba(0,0,0,0.08) !important;
+	}
+	.kartra_element_bg--thumb-size-medium{
+	    width: 60px;
+	    height: 60px;
+	}
+	.background-item--rounded-bottom-none-important{
+		border-bottom-left-radius: 0px !important;
+		border-bottom-right-radius: 0px !important;
+	}
+	.background-item--rounded-top-none-important{
+		border-top-left-radius: 0px !important;
+		border-top-right-radius: 0px !important;
+	}	
+	.kartra_text--ebony-clay-2-opaque-60{
+        color: rgba(34, 40, 58, 0.60);
+    }
+</style>
+<div class="background_changer kartra_parallax_background background_changer--blur0" style="opacity: 0.7;" alt="" data-bg='url("https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/587643048654NAR_26_Hero_Banner_Background_1920x1080.png")'></div>
+                <div class="background_changer_overlay" style="background-image: none;"></div>
+                <div class="container"><div class="row row--equal" data-component="grid"><div class="column--vertical-center background_changer--blur0 col-md-12" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder">  
+<div data-component="headline">
+    <div class="kartra_headline kartra_headline--oswald-font kartra_headline--line-height-tiny kartra_headline--size-l-giant kartra_headline--white" style="position: relative; margin: 15px 0px;" aria-controls="cke_2481" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p style="font-family:Dosis;font-size:0.65rem;text-align:center;"><span style="color:rgb(255,255,255);font-family:Dosis;font-size:2rem;text-shadow:rgb(238, 238, 238) 0px 0px 3px;"><span style="line-height:1em;"><strong>NERVOUS SYSTEM REBOOT</strong></span></span></p></div>
+</div>
+</div></div></div></div>
+            </div>
+<div class="content content--padding-large dark" style="padding: 45px 0px 30px; background-color: rgb(255, 255, 255);" id="_qhhjitdwh">
+        <div class="background_changer background_changer--blur0" style="background-image: none; opacity: 0.3;" alt=""></div>
+        <div class="background_changer_overlay" style="background-image: none;"></div>
+        <div class="container">
+            
+            
+        
+
+
+<div class="row row--equal background_changer--blur0" data-component="grid" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; margin-top: 0px; margin-bottom: 30px; background-image: none; opacity: 1;">
+<div class="col-md-4 background_changer--blur0" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder"><div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="WBHp5xECOw_GdsWAaHgge" style="margin: 0px 0px 30px; padding: 10px;">
+                            <div style="background-color: rgb(16, 63, 96);border-radius: 12px;border-color: rgb(51, 51, 51);border-style: none;border-width: 0px;background-image: none;opacity: 1;box-shadow: #1d62926b 0px 5px 15px;" class="background-item background-item--shadow-2 background_changer--blur0" alt=""></div>
+<div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="aEBzyJAWD6" style="margin-top: 15px; margin-bottom: 15px; padding: 15px;">
+                            <div style="background-color: rgb(255, 255, 255); border-radius: 12px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" class="background-item background_changer--blur0" alt=""></div>
+<div data-component="text"><div class="kartra_text" style="position: relative;" aria-controls="cke_55" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="font-family:Lato;font-size:0.8rem;line-height:1.2em;text-align:center;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:1rem;"><span style="line-height:1.2em;"><strong>Daily Meditation Session:</strong></span></span></p>
+<p style="font-family:Lato;font-size:0.8rem;line-height:1.2em;text-align:center;"><span style="font-family:'Dosis';font-size:1rem;"><strong>Jil Amadio</strong></span></p>
+<p style="font-family:Lato;font-size:0.8rem;line-height:1.2em;text-align:center;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:1rem;"><span style="line-height:1.2em;"><strong>Guided Body Scan </strong></span></span></p>
+</div></div>
+
+                        </div>
+
+
+
+
+                        </div></div></div>
+<div class="col-md-8"><div class="js_kartra_component_holder">
+<div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="WPoxpstybK_VC9Pud0VSM_ubTozxrfTg" style="margin: 0px 0px 5px; padding: 10px;">
+                            <div style="background-color: rgb(16, 63, 96);border-radius: 12px;border-color: rgb(51, 51, 51);border-style: none;border-width: 0px;background-image: none;opacity: 1;box-shadow: #1d62926b 0px 10px 30px;" class="background-item background-item--shadow-2 background_changer--blur0" alt=""></div>
+<div data-component="video">
+                                <div class="kartra_video" style="margin-top: 0px; margin-bottom: 20px; border-radius: 0px; padding-bottom: 56.25%;">
+                                    <iframe width="100%" src="https://app.kartra.com/external_video/youtube/t6FB281mKNM?autoplay=true&amp;mute=true" frameborder="0" scrolling="no" allowfullscreen="true" data-video-type="youtube" data-dashlane-frameid="2937" data-video="t6FB281mKNM?autoplay=true&amp;mute=true"></iframe>
+                                    
+                                <div class="kartra_video_player_shadow"></div>
+</div>
+                            </div>
+
+
+
+
+                        </div>
+
+</div></div>
+</div>
+<div class="row row--equal background_changer--blur0" data-component="grid" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; margin-top: 15px; margin-bottom: 0px; background-image: none; opacity: 1;">
+<div class="col-md-4 background_changer--blur0" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder"><div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="WBHp5xECOw_GdsWAaHgge" style="margin: 0px 0px 30px; padding: 10px;">
+                            <div style="background-color: rgb(16, 63, 96);border-radius: 12px;border-color: rgb(51, 51, 51);border-style: none;border-width: 0px;background-image: none;opacity: 1;box-shadow: #1d62926b 0px 5px 15px;" class="background-item background-item--shadow-2 background_changer--blur0" alt=""></div>
+<div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="aEBzyJAWD6" style="margin-top: 15px; margin-bottom: 15px; padding: 15px;">
+                            <div style="background-color: rgb(255, 255, 255); border-radius: 12px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" class="background-item background_changer--blur0" alt=""></div>
+<div data-component="text"><div class="kartra_text" style="position: relative;" aria-controls="cke_55" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="font-family:Lato;font-size:0.8rem;line-height:1.2em;text-align:center;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:1rem;"><span style="line-height:1.2em;"><strong>Daily Faculty Dialogue Session:</strong></span></span></p>
+<p style="font-family:Lato;font-size:0.8rem;line-height:1.2em;text-align:center;"><meta charset="UTF-8"><span style="background-color:transparent;color:#000000;font-family:'Dosis';font-size:1rem;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"><strong>Jan Winhall</strong></span></span></p>
+<p style="font-family:Lato;font-size:0.8rem;line-height:1.2em;text-align:center;"><span style="font-family:'Dosis';font-size:1rem;"><strong><meta charset="UTF-8"></strong></span><span style="background-color:transparent;color:#000000;font-family:'Dosis';font-size:1rem;"><i><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"><strong>Revolutionizing Trauma and Addiction Treatment with the Felt Sense Polyvagal Model</strong></span></i></span></p>
+</div></div>
+
+                        </div>
+
+
+
+
+                        </div></div></div>
+<div class="col-md-8"><div class="js_kartra_component_holder">
+<div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="WPoxpstybK_VC9Pud0VSM_ubTozxrfTg" style="margin: 0px 0px 5px; padding: 10px;">
+                            <div style="background-color: rgb(16, 63, 96);border-radius: 12px;border-color: rgb(51, 51, 51);border-style: none;border-width: 0px;background-image: none;opacity: 1;box-shadow: #1d62926b 0px 10px 30px;" class="background-item background-item--shadow-2 background_changer--blur0" alt=""></div>
+<div data-component="video">
+                                <div class="kartra_video" style="margin-top: 0px; margin-bottom: 20px; border-radius: 0px; padding-bottom: 56.25%;">
+                                    <iframe width="100%" src="https://app.kartra.com/external_video/youtube/8YcXLHPvQik?autoplay=true&amp;mute=true" frameborder="0" scrolling="no" allowfullscreen="true" data-video-type="youtube" data-dashlane-frameid="2937" data-video="8YcXLHPvQik?autoplay=true&amp;mute=true"></iframe>
+                                    
+                                <div class="kartra_video_player_shadow"></div>
+</div>
+                            </div>
+
+
+
+
+                        </div>
+
+</div></div>
+</div>
+<div class="row" data-component="grid" id="LPMMZvV34q"><div class="col-md-12"><div class="js_kartra_component_holder"><div data-component="button" id="cM7z2j6Z9O"><a href="https://drive.google.com/file/d/14-YA6bBvncbPhHVjgvzL2ufsTYSCZ4Qu/view?usp=sharing" class="kartra_button1 kartra_button1--default kartra_button1--squared-icon-right kartra_button1--solid kartra_button1--full-width kartra_button1--squared kartra_button1--shadow-small pull-center toggle_pagelink" style="background-color: rgb(246, 140, 13); color: rgb(255, 255, 255); margin: 30px auto 5px; border-radius: 6px; font-weight: 400; font-family: Lato;" data-frame-id="_qhhjitdwh" target="_blank">Download Your Summit Workbook Here<span class="kartra_icon__icon fa fa-angle-right" style="color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); font-weight: 400;"></span></a></div></div></div></div>
+
+
+
+
+
+</div>
+    </div>
+<div class="content content--padding-top-large dark" style="background-color: rgb(255, 255, 255); padding: 15px 0px 0px;" id="_pqsymldcc">
+            <div class="background_changer background_changer--blur0" style="opacity: 1;" alt="" data-bg='url("//d2uolguxr56s4e.cloudfront.net/img/kartrapages/kp-testimonials/kp_testimonials_img_27.png")'></div>
+            <div class="background_changer_overlay" style="background-image: none;"></div>
+            <div class="container">
+                
+                <div class="row" data-component="grid"><div class="col-md-12"><div class="js_kartra_component_holder"><div data-component="text"><div class="kartra_text" style="position: relative;" aria-controls="cke_55" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="text-align: center; font-size: 2.33rem;"><strong><span style='font-family: "Terminal Dosis Light"; font-size: 2.33rem;'><span style='font-size: 2.33rem; color: rgb(0, 0, 0); font-family: "Terminal Dosis Light";'>Your Day 3 Sessions</span></span></strong></p>
+
+<p style="text-align: center; font-size: 2.33rem;"> </p>
+
+<p style="text-align: center; font-size: 2.33rem;"> </p>
+
+<p style="text-align: center; font-size: 2.33rem;"> </p>
+</div></div></div></div></div>
+<div class="row row--equal" data-component="grid">
+                    <div class="col-md-4">
+                        <div class="js_kartra_component_holder">
+                            <div class="kartra_element_bg kartra_element_bg--padding-special-medium kartra_element_bg--padding-top-tiny kartra_element_bg--margin-bottom-large js_kartra_component_holder" data-component="bundle" style="margin-top: 0px; margin-bottom: 45px; padding: 10px 15px 0px;" id="ZJQqMmGywL_DGK63nem7D_XvirAzi0AP_dzv0KDNCJi_C1MIhZH72X_kv9GGKCSil">
+                                <div class="background-item background_changer--blur0" style="background-color: rgb(255, 255, 255); border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" alt=""></div>
+                                <div class="kartra_element_bg kartra_element_bg--thumb-size-large kartra_element_bg--align-center kartra_element_bg--negative-margin-top-extra-large kartra_element_bg--margin-bottom-tiny" data-component="bundle" style="margin-top: -70px; margin-bottom: 10px; padding: 0px;" id="1NZp3G64LL_paU2cH9MAp">
+                                    <div style="border-radius: 100px; border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.2) 0px 15px 50px 0px; background-color: rgba(0, 0, 0, 0); opacity: 1;" class="background-item background_changer--blur0" alt="" data-bg='url("https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/31066741_1676427262ha2Bessel_Van_der_Kolk_400x400.jpg")'></div>
+                                </div>
+                                
+                                <div data-component="headline">
+                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 5px; margin-bottom: 10px;" aria-controls="cke_2204" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p><span style='color:rgb(0,0,0);font-family:"Terminal Dosis Light";font-size:1rem;'><strong>Bessel van der Kolk, MD</strong></span></p></div>
+                                </div>
+<div data-component="headline">
+                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 10px; margin-bottom: 20px;" aria-controls="cke_423" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p style="font-size:1rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:1rem;"><span style="line-height:1.2em;"><strong>How the Body Holds Helplessness and What Restores Agency and Aliveness</strong></span></span></p></div>
+                                </div>
+                                <div data-component="list" id="1PYw1GwxOz">
+    <ul class="kartra_list">
+        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_52" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" tabindex="0" role="textbox" aria-multiline="true" aria-label="false" aria-describedby="cke_12158">
+<p style="font-size:0.8rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Understand why trauma is stored as bodily states rather than conscious memories.</span></span></p>
+<p style="font-size:0.8rem;line-height:1.2em;"> </p>
+</div>
+                
+            </div>
+        </li>
+        
+                                            
+    </ul>
+</div>
+<div data-component="list" id="1PYw1GwxOz">
+    <ul class="kartra_list">
+        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_427" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Discover why insight alone rarely changes trauma based responses.</span></span></p>
+<p> </p>
+</div>
+                
+            </div>
+        </li>
+<li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_806" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Recognize how sensory experiences reopen neural pathways frozen by trauma.</span></span></p></div>
+                
+            </div>
+        </li>
+        
+                                            
+    </ul>
+</div>
+<div data-component="button" id="zKU3Q0QHJL"><a href="https://app.kartra.com/redirect_to/?asset=page&amp;id=KB6hFeqaErrK" class="kartra_button1 kartra_button1--default kartra_button1--solid kartra_button1--full-width kartra_button1--squared pull-left toggle_pagelink" style="background-color: rgb(246, 140, 13); color: rgb(255, 255, 255); margin: 15px 0px 0px; font-weight: 700; font-family: Dosis; border-radius: 6px;" data-frame-id="_pqsymldcc" data-project-id="56" data-page-id="4921" target="_parent"><span class="kartra_icon__icon fa fa-play-circle" style="color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); font-weight: 700;"></span>CLICK HERE TO WATCH</a></div>
+                                
+                            </div>
+<div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="AkGqParc0Z_fYbrQSzmnC_PjKGXxm2rT_DX9fD35PWu_msHJrM39V3" style="margin-top: 20px; margin-bottom: 20px; padding: 25px 25px 10px;">
+                            <div style="border-radius: 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" class="background-item background_changer--blur0" alt=""></div>
+
+                        </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="js_kartra_component_holder">
+                            
+                        <div class="kartra_element_bg kartra_element_bg--padding-special-medium kartra_element_bg--padding-top-tiny kartra_element_bg--margin-bottom-large js_kartra_component_holder" data-component="bundle" style="margin-top: 0px; margin-bottom: 45px; padding: 10px 15px 0px;" id="Kweha6WOSw_RgdGDxf5h8_lw72k3EM2p_JW9KXeSCwC">
+                                <div class="background-item background_changer--blur0" style="background-color: rgb(255, 255, 255); border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" alt=""></div>
+                                <div class="kartra_element_bg kartra_element_bg--thumb-size-large kartra_element_bg--align-center kartra_element_bg--negative-margin-top-extra-large kartra_element_bg--margin-bottom-tiny" data-component="bundle" style="margin-top: -70px; margin-bottom: 10px; padding: 0px;" id="AJS1DvkLhO_O1Nj1OjFZ0">
+                                    <div style="border-radius: 100px; border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.2) 0px 15px 50px 0px; background-color: rgba(0, 0, 0, 0); opacity: 1;" class="background-item background_changer--blur0" alt="" data-bg='url("https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/313824358318Judith_Orloff_400x400.jpg")'></div>
+                                </div>
+                                
+                                <div data-component="headline">
+                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 5px; margin-bottom: 10px;" aria-controls="cke_4997" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p><span style='color:rgb(0,0,0);font-family:"Terminal Dosis Light";font-size:1rem;'><strong>Judith Orloff, MD</strong></span></p></div>
+                                </div>
+<div data-component="headline">
+                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 10px; margin-bottom: 20px;" aria-controls="cke_2907" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p style="font-size:1rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:1rem;"><span style="line-height:1.2em;"><strong>How Highly Sensitive People Transform Overwhelm Into Inner Power and Presence</strong></span></span></p></div>
+                                </div>
+                                <div data-component="list" id="1PYw1GwxOz">
+    <ul class="kartra_list">
+        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_1174" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" tabindex="0" role="textbox" aria-multiline="true" aria-label="false" aria-describedby="cke_12158">
+<p style="font-size:0.8rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Learn what empathy really is and why empaths process the world with deeper emotional and sensory intensity.</span></span></p>
+<p style="font-size:0.8rem;line-height:1.2em;"> </p>
+</div>
+                
+            </div>
+        </li>
+        
+                                            
+    </ul>
+</div>
+<div data-component="list" id="1PYw1GwxOz">
+    <ul class="kartra_list">
+        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_1551" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="font-size:0.8rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Recognize the signs of sensory overload and gain tools to stop overwhelm before it escalates into anxiety, exhaustion, or shutdown.</span></span></p>
+<p style="font-size:0.8rem;line-height:1.2em;"> </p>
+</div>
+                
+            </div>
+        </li>
+<li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_1927" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Build confidence in setting healthy boundaries that protect energy, reduce resentment, and create emotional safety without harshness.</span></span></p></div>
+                
+            </div>
+        </li>
+        
+                                            
+    </ul>
+</div>
+<div data-component="button" id="zKU3Q0QHJL"><a href="https://app.kartra.com/redirect_to/?asset=page&amp;id=OiJy09DloVrK" class="kartra_button1 kartra_button1--default kartra_button1--solid kartra_button1--full-width kartra_button1--squared pull-left toggle_pagelink" style="background-color: rgb(246, 140, 13); color: rgb(255, 255, 255); margin: 15px 0px 0px; font-weight: 700; font-family: Dosis; border-radius: 6px;" data-frame-id="_pqsymldcc" data-project-id="56" data-page-id="4922" target="_parent"><span class="kartra_icon__icon fa fa-play-circle" style="color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); font-weight: 700;"></span>CLICK HERE TO WATCH</a></div>
+                                
+                            </div>
+<div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="IOM6ec7ND8_D8dOziCHHK_OejbbHjYsj_qXurluea9h" style="margin-top: 20px; margin-bottom: 20px; padding: 25px 25px 10px;">
+                            <div style="border-radius: 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" class="background-item background_changer--blur0" alt=""></div>
+
+                        </div>
+</div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="js_kartra_component_holder">
+                            <div class="kartra_element_bg kartra_element_bg--padding-special-medium kartra_element_bg--padding-top-tiny kartra_element_bg--margin-bottom-large js_kartra_component_holder" data-component="bundle" style="margin-top: 0px; margin-bottom: 45px; padding: 10px 15px 0px;" id="5SRotYjtZ0_0j9h8XhdjC_CLkhf1xhxR_0jqldwxR5g">
+                                <div class="background-item background_changer--blur0" style="background-color: rgb(255, 255, 255); border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" alt=""></div>
+                                <div class="kartra_element_bg kartra_element_bg--thumb-size-large kartra_element_bg--align-center kartra_element_bg--negative-margin-top-extra-large kartra_element_bg--margin-bottom-tiny" data-component="bundle" style="margin-top: -70px; margin-bottom: 10px; padding: 0px;" id="qQiuF0Fe9o_BYv1doqAf0">
+                                    <div style="border-radius: 100px; border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.2) 0px 15px 50px 0px; background-color: rgba(0, 0, 0, 0); opacity: 1;" class="background-item background_changer--blur0" alt="" data-bg='url("https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/62119107324Paul_Conti_PhD_400x400.jpg")'></div>
+                                </div>
+                                
+                                <div data-component="headline">
+                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 5px; margin-bottom: 10px;" aria-controls="cke_7415" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p style="font-size:1rem;"><span style='color:rgb(0,0,0);font-family:"Terminal Dosis Light";font-size:1rem;'><strong>Paul Conti, MD</strong></span></p></div>
+                                </div>
+<div data-component="headline">
+                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 10px; margin-bottom: 20px;" aria-controls="cke_5719" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p><span style="color:rgb(0,0,0);font-family:Dosis;font-size:1rem;"><span style="line-height:1.2em;"><strong>Trauma and the Brain: Understanding Hidden Patterns That Drive Behavior</strong></span></span></p></div>
+                                </div>
+                                <div data-component="list" id="1PYw1GwxOz">
+    <ul class="kartra_list">
+        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_2295" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" tabindex="0" role="textbox" aria-multiline="true" aria-label="false" aria-describedby="cke_12158">
+<p style="font-size:0.8rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Recognize how trauma driven brain changes influence choices without conscious awareness.</span></span></p>
+<p style="font-size:0.8rem;line-height:1.2em;"> </p>
+</div>
+                
+            </div>
+        </li>
+        
+                                            
+    </ul>
+</div>
+<div data-component="list" id="1PYw1GwxOz">
+    <ul class="kartra_list">
+        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_2682" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Understand why strong emotions override logic and keep people repeating limiting patterns.</span></span></p>
+<p> </p>
+</div>
+                
+            </div>
+        </li>
+<li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_3411" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p style="font-size:0.8rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Learn to step back from overwhelm and see your life with greater perspective.</span></span></p></div>
+                
+            </div>
+        </li>
+        
+                                            
+    </ul>
+</div>
+<div data-component="button" id="zKU3Q0QHJL"><a href="https://app.kartra.com/redirect_to/?asset=page&amp;id=5mIdUTe9ocZa" class="kartra_button1 kartra_button1--default kartra_button1--solid kartra_button1--full-width kartra_button1--squared pull-left toggle_pagelink" style="background-color: rgb(246, 140, 13); color: rgb(255, 255, 255); margin: 15px 0px 0px; font-weight: 700; font-family: Dosis; border-radius: 6px;" data-frame-id="_pqsymldcc" data-project-id="56" data-page-id="4923" target="_parent"><span class="kartra_icon__icon fa fa-play-circle" style="color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); font-weight: 700;"></span>CLICK HERE TO WATCH</a></div>
+                                
+                            </div>
+<div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="ENLd3p3S36_9jEkeCY2KU_SqHWDGyIaP_ET3hSCMb1g" style="margin-top: 20px; margin-bottom: 20px; padding: 25px 25px 10px;">
+                            <div style="border-radius: 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" class="background-item background_changer--blur0" alt=""></div>
+
+                        </div>
+                        </div>
+                    </div>
+                </div>
+<div class="row row--equal" data-component="grid">
+                    <div class="col-md-4">
+                        <div class="js_kartra_component_holder">
+                            
+                        <div class="kartra_element_bg kartra_element_bg--padding-special-medium kartra_element_bg--padding-top-tiny kartra_element_bg--margin-bottom-large js_kartra_component_holder" data-component="bundle" style="margin-top: 0px; margin-bottom: 45px; padding: 10px 15px 0px;" id="Kweha6WOSw_RgdGDxf5h8_c4efcuxMJE_uqMyvMnXvj">
+                                <div class="background-item background_changer--blur0" style="background-color: rgb(255, 255, 255); border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" alt=""></div>
+                                <div class="kartra_element_bg kartra_element_bg--thumb-size-large kartra_element_bg--align-center kartra_element_bg--negative-margin-top-extra-large kartra_element_bg--margin-bottom-tiny" data-component="bundle" style="margin-top: -70px; margin-bottom: 10px; padding: 0px;" id="9OkD2fxNv6_bDlmkcuQ27">
+                                    <div style="border-radius: 100px; border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); opacity: 1;" class="background-item background_changer--blur0" alt="" data-bg='url("https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/298220094544Ruth_Lanius_400x400.jpg")'></div>
+                                </div>
+                                
+                                <div data-component="headline">
+                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 5px; margin-bottom: 10px;" aria-controls="cke_15016" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p><span style='color:rgb(0,0,0);font-family:"Terminal Dosis Light";font-size:1rem;'><strong>Ruth Lanius, MD, PhD</strong></span></p></div>
+                                </div>
+<div data-component="headline">
+                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 10px; margin-bottom: 20px;" aria-controls="cke_8150" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p style="font-size:1rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:1rem;"><span style="line-height:1.2em;"><strong>Rebuilding the Sense of Self After Trauma: Default Mode Network, Memory, and Healing</strong></span></span></p></div>
+                                </div>
+                                <div data-component="list" id="1PYw1GwxOz">
+    <ul class="kartra_list">
+        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_3759" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" tabindex="0" role="textbox" aria-multiline="true" aria-label="false" aria-describedby="cke_12158">
+<p><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Recognize why grounding must come before deeper processing work, especially for highly dissociative clients who can’t “take in” interventions without it.</span></span></p>
+<p style="font-size:0.8rem;line-height:1.2em;"> </p>
+</div>
+                
+            </div>
+        </li>
+        
+                                            
+    </ul>
+</div>
+<div data-component="list" id="1PYw1GwxOz">
+    <ul class="kartra_list">
+        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_4161" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="font-size:0.8rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Understand how spatial orientation practices (where-self in relation to floor, walls, horizon, sunrise/sunset) can invite interoception indirectly and more safely.</span></span></p>
+<p style="font-size:0.8rem;line-height:1.2em;"> </p>
+</div>
+                
+            </div>
+        </li>
+<li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_4547" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p style="font-size:0.8rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Discover why trauma disrupts the brain’s ability to update predictions, keeping the nervous system stuck in past threat responses even when present conditions are safe.</span></span></p></div>
+                
+            </div>
+        </li>
+        
+                                            
+    </ul>
+</div>
+<div data-component="button" id="zKU3Q0QHJL"><a href="https://app.kartra.com/redirect_to/?asset=page&amp;id=PXCZ0ozLmKoQ" class="kartra_button1 kartra_button1--default kartra_button1--solid kartra_button1--full-width kartra_button1--squared pull-left toggle_pagelink" style="background-color: rgb(246, 140, 13); color: rgb(255, 255, 255); margin: 15px 0px 0px; font-weight: 700; font-family: Dosis; border-radius: 6px;" data-frame-id="_pqsymldcc" data-project-id="56" data-page-id="4924" target="_parent"><span class="kartra_icon__icon fa fa-play-circle" style="color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); font-weight: 700;"></span>CLICK HERE TO WATCH</a></div>
+                                
+                            </div>
+<div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="IOM6ec7ND8_D8dOziCHHK_Ip71wRK7jz_GRNy6zh4AK_owhMAdQZ05" style="margin-top: 20px; margin-bottom: 20px; padding: 25px 25px 10px;">
+                            <div style="border-radius: 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" class="background-item background_changer--blur0" alt=""></div>
+
+                        </div>
+</div>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <div class="js_kartra_component_holder">
+                            <div class="kartra_element_bg kartra_element_bg--padding-special-medium kartra_element_bg--padding-top-tiny kartra_element_bg--margin-bottom-large js_kartra_component_holder" data-component="bundle" style="margin-top: 0px; margin-bottom: 45px; padding: 10px 15px 0px;" id="5SRotYjtZ0_0j9h8XhdjC_OhdbCG6ask_kBGzs3C45w">
+                                <div class="background-item background_changer--blur0" style="background-color: rgb(255, 255, 255); border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" alt=""></div>
+                                <div class="kartra_element_bg kartra_element_bg--thumb-size-large kartra_element_bg--align-center kartra_element_bg--negative-margin-top-extra-large kartra_element_bg--margin-bottom-tiny" data-component="bundle" style="margin-top: -70px; margin-bottom: 10px; padding: 0px;" id="pnEmnPTJ9M_9ozQUMAuGn">
+                                    <div style="border-radius: 100px; border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.2) 0px 15px 50px 0px; background-color: rgba(0, 0, 0, 0); opacity: 1;" class="background-item background_changer--blur0" alt="" data-bg='url("https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/31071408_1683593338qtCDawson_Church_PhD_400x400.jpg")'></div>
+                                </div>
+                                
+                                <div data-component="headline">
+                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 5px; margin-bottom: 10px;" aria-controls="cke_11928" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p><span style='color:rgb(0,0,0);font-family:"Terminal Dosis Light";font-size:1rem;'><strong>Dawson Church, PhD</strong></span></p></div>
+                                </div>
+<div data-component="headline">
+                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 10px; margin-bottom: 20px;" aria-controls="cke_10216" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p style="font-size:1rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:1rem;"><span style="line-height:1.2em;"><strong>From Triggered to Transformed: Using Energy Psychology to Reset Your Brain and Body</strong></span></span></p></div>
+                                </div>
+                                <div data-component="list" id="1PYw1GwxOz">
+    <ul class="kartra_list">
+        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_4913" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" tabindex="0" role="textbox" aria-multiline="true" aria-label="false" aria-describedby="cke_12158">
+<p style="font-size:0.8rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Learn how tapping on acupressure points sends calming signals that break the link between past danger and present activation.</span></span></p>
+<p style="font-size:0.8rem;line-height:1.2em;"> </p>
+</div>
+                
+            </div>
+        </li>
+        
+                                            
+    </ul>
+</div>
+<div data-component="list" id="1PYw1GwxOz">
+    <ul class="kartra_list">
+        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_5302" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="font-size:0.8rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Gain insight into how somatic stimulation rewires emotional circuits so old triggers lose their grip on your daily life.</span></span></p>
+<p style="font-size:0.8rem;line-height:1.2em;"> </p>
+</div>
+                
+            </div>
+        </li>
+        
+                                            
+    </ul>
+</div>
+<div data-component="list" id="1PYw1GwxOz">
+    <ul class="kartra_list">
+        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">
+            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">
+                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>
+            </div>
+            <div class="kartra_item_info kartra_item_info--padding-left-tiny">
+                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_5684" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Discover how tapping, breath awareness, and mindful attention dissolve stored tension and rapidly reduce emotional intensity.</span></span></p></div>
+                
+            </div>
+        </li>
+        
+                                            
+    </ul>
+</div>
+<div data-component="button" id="zKU3Q0QHJL"><a href="https://app.kartra.com/redirect_to/?asset=page&amp;id=x6eWh5iOQAdT" class="kartra_button1 kartra_button1--default kartra_button1--solid kartra_button1--full-width kartra_button1--squared pull-left toggle_pagelink" style="background-color: rgb(246, 140, 13); color: rgb(255, 255, 255); margin: 15px 0px 0px; font-weight: 700; font-family: Dosis; border-radius: 6px;" data-frame-id="_pqsymldcc" data-project-id="56" data-page-id="4925" target="_parent"><span class="kartra_icon__icon fa fa-play-circle" style="color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); font-weight: 700;"></span>CLICK HERE TO WATCH</a></div>
+                                
+                            </div>
+<div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="IOM6ec7ND8_D8dOziCHHK_Ip71wRK7jz_GRNy6zh4AK_heLETsYd69_b7qsPVYlio_M4ABDMHyRk" style="margin-top: 20px; margin-bottom: 20px; padding: 25px 25px 10px;">                            <div style="border-radius: 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" class="background-item background_changer--blur0" alt=""></div>                        </div>
+                        </div>
+                    </div>
+<div class="col-md-4">
+                        <div class="js_kartra_component_holder">
+                            <div class="kartra_element_bg kartra_element_bg--padding-special-medium kartra_element_bg--padding-top-tiny kartra_element_bg--margin-bottom-large js_kartra_component_holder" data-component="bundle" style="margin-top: 0px; margin-bottom: 45px; padding: 10px 15px 0px;" id="Kweha6WOSw_RgdGDxf5h8_HlwTCeWTkt">                                <div class="background-item background_changer--blur0" style="background-color: rgb(255, 255, 255); border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" alt=""></div>                                <div class="kartra_element_bg kartra_element_bg--thumb-size-large kartra_element_bg--align-center kartra_element_bg--negative-margin-top-extra-large kartra_element_bg--margin-bottom-tiny" data-component="bundle" style="margin-top: -70px; margin-bottom: 10px; padding: 0px;">                                    <div style="border-radius: 100px; border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); opacity: 1;" class="background-item background_changer--blur0" alt="" data-bg='url("https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/260465384469DaeEss_1Drea_Pennington_Wasio__MD_400x400.jpg")'></div>                                </div>                                                                <div data-component="headline">                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 5px; margin-bottom: 10px;" aria-controls="cke_12465" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p><span style='color:rgb(0,0,0);font-family:"Terminal Dosis Light";font-size:1rem;'><strong>DaeEss 1Drea Pennington, MD</strong></span></p></div>                                </div>
+<div data-component="headline">                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 10px; margin-bottom: 20px;" aria-controls="cke_10720" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p style="font-size:1rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:1rem;"><span style="line-height:1.2em;"><strong>How Identity, Safety, and Hope Rewire the Nervous System From Survival to Self-Leadership</strong></span></span></p></div>                                </div>                                <div data-component="list" id="1PYw1GwxOz">    <ul class="kartra_list">        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>            </div>            <div class="kartra_item_info kartra_item_info--padding-left-tiny">                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_8459" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" tabindex="0" role="textbox" aria-multiline="true" aria-label="false" aria-describedby="cke_12158">
+<p style="font-size:0.8rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Understand why insight alone does not create change when the nervous system still feels unsafe.</span></span></p>
+<p style="font-size:0.8rem;line-height:1.2em;"> </p>
+</div>                            </div>        </li>                                                        </ul>
+</div>
+<div data-component="list" id="1PYw1GwxOz">    <ul class="kartra_list">        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>            </div>            <div class="kartra_item_info kartra_item_info--padding-left-tiny">                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_9252" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Learn to recognize somatic signals that reveal looping patterns before self sabotage takes over.</span></span></p>
+<p> </p>
+</div>                            </div>        </li>
+<li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>            </div>            <div class="kartra_item_info kartra_item_info--padding-left-tiny">                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_9653" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p style="font-size:0.8rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Gain tools to shift from reactive identity patterns into witness consciousness and self leadership.</span></span></p></div>                            </div>        </li>                                                        </ul>
+</div>
+<div data-component="button" id="zKU3Q0QHJL"><a href="https://app.kartra.com/redirect_to/?asset=page&amp;id=XxJbZIC6HQCp" class="kartra_button1 kartra_button1--default kartra_button1--solid kartra_button1--full-width kartra_button1--squared pull-left toggle_pagelink" style="background-color: rgb(246, 140, 13); color: rgb(255, 255, 255); margin: 15px 0px 0px; font-weight: 700; font-family: Dosis; border-radius: 6px;" data-frame-id="_pqsymldcc" data-project-id="56" data-page-id="4927" target="_parent"><span class="kartra_icon__icon fa fa-play-circle" style="color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); font-weight: 700;"></span>CLICK HERE TO WATCH</a></div>                                                            </div>
+<div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="IOM6ec7ND8_D8dOziCHHK_Ip71wRK7jz_GRNy6zh4AK_ggqCidw5aT" style="margin-top: 20px; margin-bottom: 20px; padding: 25px 25px 10px;">                            <div style="border-radius: 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" class="background-item background_changer--blur0" alt=""></div>                        </div>
+                        </div>
+                    </div>
+                </div>
+<div class="row row--equal" data-component="grid">                    <div class="col-md-4">                        <div class="js_kartra_component_holder">                                                    <div class="kartra_element_bg kartra_element_bg--padding-special-medium kartra_element_bg--padding-top-tiny kartra_element_bg--margin-bottom-large js_kartra_component_holder" data-component="bundle" style="margin-top: 0px; margin-bottom: 45px; padding: 10px 15px 0px;" id="ZJQqMmGywL_DGK63nem7D_XvirAzi0AP_dzv0KDNCJi_kQfVtUGjlU_GgtSflNyVM_IXbJyIWBlK">                                <div class="background-item background_changer--blur0" style="background-color: rgb(255, 255, 255); border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" alt=""></div>                                <div class="kartra_element_bg kartra_element_bg--thumb-size-large kartra_element_bg--align-center kartra_element_bg--negative-margin-top-extra-large kartra_element_bg--margin-bottom-tiny" data-component="bundle" style="margin-top: -70px; margin-bottom: 10px; padding: 0px;" id="M4C7JBr9eY_rRadCh1Baf">                                    <div style="border-radius: 100px; border-width: 1px; border-style: solid; border-color: rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.2) 0px 15px 50px 0px; background-color: rgba(0, 0, 0, 0); opacity: 1;" class="background-item background_changer--blur0" alt="" data-bg='url("https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/697851729321EMILY_BALCETIS__PHD_400x400.jpg")'></div>                                </div>                                                                <div data-component="headline">                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 5px; margin-bottom: 10px;" aria-controls="cke_14661" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p><span style='color:rgb(0,0,0);font-family:"Terminal Dosis Light";font-size:1rem;'><strong>Emily Balcetis, PhD</strong></span></p></div>                                </div>
+<div data-component="headline">                                    <div class="kartra_headline kartra_headline--open-sans-font kartra_headline--h4 kartra_headline--font-weight-regular kartra_headline--text-center kartra_headline--ebony-clay-2 kartra_headline--margin-bottom-extra-tiny" style="position: relative; margin-top: 10px; margin-bottom: 20px;" aria-controls="cke_12995" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p><span style="color:rgb(0,0,0);font-family:Dosis;font-size:1rem;"><span style="line-height:1.2em;"><strong>The Hidden Power of Vision to Shape Motivation, Stress, and Success</strong></span></span></p></div>                                </div>                                <div data-component="list" id="1PYw1GwxOz">    <ul class="kartra_list">        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>            </div>            <div class="kartra_item_info kartra_item_info--padding-left-tiny">                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_6058" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" tabindex="0" role="textbox" aria-multiline="true" aria-label="false" aria-describedby="cke_12158">
+<p><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Learn a science-backed method for increasing endurance and reducing perceived effort by narrowing visual focus.</span></span></p>
+<p> </p>
+</div>                            </div>        </li>                                                        </ul>
+</div>
+<div data-component="list" id="1PYw1GwxOz">    <ul class="kartra_list">        <li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>            </div>            <div class="kartra_item_info kartra_item_info--padding-left-tiny">                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_6443" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Get tools for breaking ineffective habits by experimenting with new strategies instead of relying on old defaults.</span></span></p>
+<p> </p>
+</div>                            </div>        </li>
+<li class="kartra_list__item kartra_list__item--table" href="javascript: void(0);">            <div class="kartra_icon kartra_icon--top-spacing-adjust kartra_icon--light-blue-green kartra_icon--medium" style="background-color: rgba(0, 0, 0, 0); margin: 0px auto; padding:0px;">                <span style="color: rgb(0, 0, 0);" class="kartra_icon__icon fa fa-check-circle"></span>            </div>            <div class="kartra_item_info kartra_item_info--padding-left-tiny">                <div class="kartra_item_info__headline kartra_item_info__headline--h5 kartra_item_info__headline--black" style="position: relative;" aria-controls="cke_6826" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false"><p style="font-size:0.8rem;line-height:1.2em;"><span style="color:rgb(0,0,0);font-family:Dosis;font-size:0.8rem;"><span style="line-height:1.2em;">Discover how pairing excitement with realistic obstacle planning creates the physiological readiness needed for goal pursuit.</span></span></p></div>                            </div>        </li>                                                        </ul>
+</div>
+<div data-component="button" id="zKU3Q0QHJL"><a href="https://app.kartra.com/redirect_to/?asset=page&amp;id=KrUzG4NJu9oQ" class="kartra_button1 kartra_button1--default kartra_button1--solid kartra_button1--full-width kartra_button1--squared pull-left toggle_pagelink" style="background-color: rgb(246, 140, 13); color: rgb(255, 255, 255); margin: 15px 0px 0px; font-weight: 700; font-family: Dosis; border-radius: 6px;" data-frame-id="_pqsymldcc" data-project-id="56" data-page-id="4926" target="_parent"><span class="kartra_icon__icon fa fa-play-circle" style="color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); font-weight: 700;"></span>CLICK HERE TO WATCH</a></div>                                                            </div>
+<div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" id="IOM6ec7ND8_D8dOziCHHK_QlfNDlCpzF_MMqZviBeh8_Wi1UToql6w_U1ebht5WPa" style="margin-top: 20px; margin-bottom: 20px; padding: 25px 25px 10px;">                            <div style="border-radius: 0px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" class="background-item background_changer--blur0" alt=""></div>                        </div>
+</div>                    </div>                                        <div class="col-md-4">                        <div class="js_kartra_component_holder">                                                    </div>                    </div>
+<div class="col-md-4">                        <div class="js_kartra_component_holder">                                                    </div>                    </div>                </div>
+            </div>
+        </div>
+<div class="content light" style="padding: 30px 0px; background-color: rgb(16, 63, 96);" id="_ampz52q05">
+                <div class="background_changer kartra_parallax_background background_changer--blur1" alt="" style="opacity: 0.6;" data-bg='url("https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/930959694519Blue_Neurons_Genspark_1024x576.png")'></div>
+                <div class="background_changer_overlay" style="background-image: none;"></div>
+                <div class="container"><div class="row row--equal" data-component="grid"><div class="column--vertical-center background_changer--blur0 col-md-10 col-md-offset-1" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;">
+                        <div class="js_kartra_component_holder">
+                            
+                        <div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small" data-component="bundle" id="IioNDMpVte_B8oRP9dIRy_rHORBGKocN" style="margin-top: 15px; margin-bottom: 15px; padding: 5px 25px;">
+                            <div style="background-color: rgb(246, 246, 247); border-radius: 12px; border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; background-image: none; opacity: 1;" class="background-item background_changer--blur0" alt=""></div>
+                            <div class="row row--equal" data-component="grid">
+                                <div class="col-md-7 column--vertical-center background_changer--blur0" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;">
+                                    <div class="js_kartra_component_holder">
+<div data-component="text"><div class="kartra_text" style="position: relative; margin-top: 10px; margin-bottom: 5px;" aria-controls="cke_81" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="text-align: center; font-size: 0.80rem; line-height: 1.2em; font-family: Lato"><span style="font-family:Dosis;"><strong><span style="color: rgb(0, 0, 0); font-size: 0.8rem; line-height: 1.2em;"><span style="line-height: 1.2em; font-size: 1.2rem; color: rgb(0, 0, 0);">Get Lifetime Access...</span></span></strong></span></p>
+</div></div>
+<div data-component="text" id="rNoqxeTyHP"><div class="kartra_text" style="position: relative; margin-top: 0px; margin-bottom: 0px;" aria-controls="cke_55" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="text-align: center; font-size: 0.80rem; line-height: 1.6em; font-family: Lato"><strong><span style="font-family: Dosis; color: rgb(246, 148, 28); font-size: 0.8rem; line-height: 1.6em;"><span style="line-height: 1.6em; font-size: 1rem; font-family: Dosis; color: rgb(246, 148, 28);">Save 50% Today. Discount ends in...</span></span></strong></p>
+</div></div>
+<div data-component="countdown">
+    <div class="countdown-section countdown-section--margin-bottom-extra-small countdown-section--text-center" data-countdown-id="ElnRZ5B6mn_nQbLQSyjaH_b0PPlg8XGR_uJGOW7GZdf" style="margin-top: 10px; margin-bottom: 5px;" data-countdown="fixed" data-date="01/26/2026" data-time="23:59" data-asset-id="0" data-timestamp="1769489940">
+        <div class="countdown  countdown--inline-block">
+            <div class="countdown__item countdown__item--day countdown__item--black countdown__item--border-left-extra-tiny countdown__item--border-black-transparent-small countdown__item--padding-left-right-tiny">
+                <div class="digit-list digit-list--maven-pro-font digit-list--cc-size-24 digit-list--margin-bottom-extra-tiny">
+                    <div class="digit-list__item">0</div>
+                    <div class="digit-list__item">0</div>
+                </div>
+                <div>
+                    <span class="countdown_title countdown_title--cc-title-24 countdown_title--maven-pro-font">DAYS</span>
+                </div>
+            </div>
+            <div class="countdown__item countdown__item--hours countdown__item--black countdown__item--border-left-extra-tiny countdown__item--border-black-transparent-small countdown__item--padding-left-right-tiny">
+                <div class="digit-list digit-list--maven-pro-font digit-list--cc-size-24 digit-list--margin-bottom-extra-tiny">
+                    <div class="digit-list__item">0</div>
+                    <div class="digit-list__item">0</div>
+                </div>
+                <div>
+                    <span class="countdown_title countdown_title--cc-title-24 countdown_title--maven-pro-font">HOURS</span>
+                </div>
+            </div>
+            <div class="countdown__item countdown__item--minutes countdown__item--black countdown__item--border-left-extra-tiny countdown__item--border-black-transparent-small countdown__item--padding-left-right-tiny">
+                <div class="digit-list digit-list--maven-pro-font digit-list--cc-size-24 digit-list--margin-bottom-extra-tiny">
+                    <div class="digit-list__item">0</div>
+                    <div class="digit-list__item">0</div>
+                </div>
+                <div>
+                    <span class="countdown_title countdown_title--cc-title-24 countdown_title--maven-pro-font">MINUTES</span>
+                </div>
+            </div>
+            <div class="countdown__item countdown__item--seconds countdown__item--black countdown__item--border-left-extra-tiny countdown__item--border-black-transparent-small countdown__item--padding-left-right-tiny">
+                <div class="digit-list digit-list--maven-pro-font digit-list--cc-size-24 digit-list--margin-bottom-extra-tiny">
+                    <div class="digit-list__item">0</div>
+                    <div class="digit-list__item">0</div>
+                </div>
+                <div>
+                    <span class="countdown_title countdown_title--cc-title-24 countdown_title--maven-pro-font">SECONDS</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+                                </div>
+                                <div class="col-md-5 column--vertical-center background_changer--blur0" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;">
+                                    <div class="js_kartra_component_holder"><div data-component="button"><a href="https://app.kartra.com/redirect_to/?asset=page&amp;id=rZqWvBflV9rK" class="kartra_button1 kartra_button1--default kartra_button1--solid kartra_button1--large kartra_button1--rounded kartra_button1--shadow-small pull-center toggle_pagelink" style="background-color: rgb(246, 140, 13); color: rgb(255, 255, 255); margin: 15px auto 20px; font-weight: 700; font-family: Dosis; border-radius: 40px;" data-frame-id="_ampz52q05" target="_blank" data-project-id="56" data-page-id="4776">UPGRADE NOW!</a></div></div>
+                                </div>
+                            </div>
+                        </div>
+</div>
+                    </div></div></div>
+            </div>
+<div class="content light" style="padding: 40px 0px 45px; background-color: rgba(0, 88, 175, 0.2);" id="_860iurhz9">
+                <div class="background_changer background_changer--blur0" alt="" style="background-image: none; opacity: 1;"></div>
+                <div class="background_changer_overlay" style="background-image: none;"></div>
+                <div class="container"><div class="row row--equal" data-component="grid"><div class="col-md-10 col-md-offset-1 background_changer--blur0" alt="" style="background-color: rgb(255, 255, 255); border-radius: 12px; border-style: none; border-width: 0px; padding: 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder">
+<div data-component="text" id="fjJOvWnlTA"><div class="kartra_text" style="position: relative; margin-top: 30px; margin-bottom: 15px;" aria-controls="cke_80" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="font-size: 0.80rem; line-height: 1.2em; font-family: Lato; text-align: center"><b><span style="line-height: 1.2em; font-size: 1rem; font-family: Lato;"><span style="color: rgb(0, 0, 0); font-family: Dosis; font-size: 1rem; line-height: 1.2em;">Please share your name, where you are watching the summit from, and what your favorite takeaways from the Summit are each day.</span></span></b></p>
+</div></div>
+<div class="kartra_element_bg kartra_element_bg--padding-small kartra_element_bg--padding-bottom-tiny kartra_element_bg--margin-bottom-extra-small js_kartra_component_holder" data-component="bundle" data-source-element="true" style="margin: 0px; padding: 0px;" id="e3rFdVBrTA">
+                            <div style="border-style: none; padding: 0px;" class="your-code-holder"><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div data-embed="true" data-embed-id="1">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+ 
+    var disqus_config = function () {
+    this.page.url = "https://www.nervoussystemrebootsummit.com/watch;"
+    this.page.identifier = "nsr2026watch;"
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://nervous-system-reboot.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+
+                        </div>
+</div></div></div></div>
+            </div>
+<div class="content content--padding-large dark" style="background-color: rgb(255, 255, 255); padding: 75px 0px 15px;" id="_99y0fbzie">
+                <div class="background_changer background_changer--blur0" style="background-image: none; opacity: 1;" alt=""></div>
+                <div class="background_changer_overlay" style="background-image: none;"></div>
+                <div class="container"><div class="row background_changer--blur0" data-component="grid" id="KoaQiecqn3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; margin-top: 0px; margin-bottom: 30px; background-image: none; opacity: 1;"><div class="col-md-12" style="display: block;"><div class="js_kartra_component_holder">
+<div data-component="headline" id="7AZ8dZ37pT">
+    <div class="kartra_headline kartra_headline--size-extra-large kartra_headline--text-center" style="position: relative; margin: 0px 0px 30px;" aria-controls="cke_61" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="line-height: 1.2em; font-family: Lato; font-size: 0.80rem"><b><span style="line-height: 1.2em;"><span style="color: rgb(0, 0, 0); font-family: Dosis; font-size: 2.33rem; line-height: 1.2em; text-shadow: rgb(15, 48, 71) 0px 0px 1px;">PRODUCED BY</span></span></b></p>
+</div>
+</div>
+<div data-component="image" href="javascript: void(0);"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='https://d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" style="border-color: rgb(51, 51, 51); border-style: none; border-width: 0px; margin: 0px auto 15px; opacity: 1; width: 189px; max-width: 100%; height: auto;" alt="" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/1025376200340HMS2_V_1000px.png"></div>
+</div></div></div></div>
+            </div>
+<div class="content content--padding-large dark" style="background-color: rgb(255, 255, 255); padding: 60px 0px;" id="_ue11vtt5c">
+                <div class="background_changer background_changer--blur0" style="background-image: none; opacity: 1;" alt=""></div>
+                <div class="background_changer_overlay" style="background-image: none;"></div>
+                <div class="container">
+<div class="row background_changer--blur0" data-component="grid" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; margin-top: 0px; margin-bottom: 20px; background-image: none; opacity: 1;"><div class="col-md-8 col-md-offset-2" id="jsOnCsngmN"><div class="js_kartra_component_holder">
+<div data-component="headline" id="rtkyZ6moaN">
+    <div class="kartra_headline kartra_headline--size-giant kartra_headline--oswald-font kartra_headline--text-center kartra_headline--ebony-clay-2" style="position: relative; margin: 0px 0px 15px;" aria-controls="cke_60" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" data-effect="kartra_css_effect_1"><p style="font-family:Dosis;font-size:2.33rem;line-height:1.2em;"><span style="color:rgb(15,48,71);font-family:Dosis;font-size:2.33rem;text-shadow:rgb(15, 48, 71) 0px 0px 1px;"><span style="line-height:1.2em;"><strong>SUMMIT SPONSORS</strong></span></span></p></div>
+</div>
+<div data-component="divider" id="16f7XWhJHq">                            
+    <hr class="kartra_divider kartra_divider--border-extra-tiny kartra_divider--border-dim-black-opaque-25 pull-center kartra_divider--full" style="border-color: rgb(255, 160, 19); border-top-style: solid; border-top-width: 2px; margin: 0px auto 5px;">
+</div>
+</div></div></div>
+<div class="row row--equal background_changer--blur0" data-component="grid" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; margin-top: 10px; margin-bottom: 10px; background-image: none; opacity: 1;">
+<div class="column--vertical-center col-md-6 background_changer--blur0" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder">
+<div data-component="image" href="javascript: void(0);"><a href="https://internationalcpi.com/calm/" class="toggle_pagelink" data-frame-id="_ue11vtt5c" target="_blank"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='//d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" alt="" style="margin: 5px auto; opacity: 1; width: 530px; max-width: 100%; height: auto; border-radius: 0px;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/554994789381cropped-Logo_800.jpg"></a></div>
+<div data-component="text"><div class="kartra_text"><p style="text-align:center;"><a href="https://internationalcpi.com/calm/" data-frame-id="_ue11vtt5c" target="_parent"><span style="font-family:Terminal Dosis Light;font-size:0.65rem;"><strong><u>internationalcpi.com/calm</u></strong></span></a></p></div></div>
+</div></div>
+<div class="col-md-6 column--vertical-center background_changer--blur0" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; padding: 0px 15px; background-image: none; opacity: 1;">
+                        <div class="js_kartra_component_holder">
+                            
+                        <div data-component="image" href="javascript: void(0);"><a href="https://www.dnanutritionebook.com/reboot" class="toggle_pagelink" data-frame-id="_ue11vtt5c" target="_blank"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='//d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" alt="" style="margin: 5px auto; opacity: 1; width: 119px; max-width: 100%; height: auto; border-radius: 0px;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/57785838578SNiP_Logo.png"></a></div>
+<div data-component="text"><div class="kartra_text"><p style="text-align:center;"><a data-frame-id="_ue11vtt5c" href="https://www.dnanutritionebook.com/reboot" target="_parent"><span style="font-family:Terminal Dosis Light;font-size:0.65rem;"><strong><u>dnanutritionebook.com/reboot</u></strong></span></a></p></div></div>
+</div>
+                    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+<div class="content content--padding-large dark" style="background-color: rgb(255, 255, 255); padding: 60px 0px;" id="_ewmcf4jt2">
+                <div class="background_changer background_changer--blur0" style="background-image: none; opacity: 1;" alt=""></div>
+                <div class="background_changer_overlay" style="background-image: none;"></div>
+                <div class="container">
+<div class="row background_changer--blur0" data-component="grid" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; margin-top: 0px; margin-bottom: 20px; background-image: none; opacity: 1;"><div class="col-md-8 col-md-offset-2" id="jsOnCsngmN"><div class="js_kartra_component_holder">
+<div data-component="headline" id="rtkyZ6moaN">
+    <div class="kartra_headline kartra_headline--size-giant kartra_headline--oswald-font kartra_headline--text-center kartra_headline--ebony-clay-2" style="position: relative; margin: 0px 0px 15px;" aria-controls="cke_60" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" data-effect="kartra_css_effect_1">
+<p style="font-family: Dosis; line-height: 1.2em; font-size: 2.33rem;"><strong><span style="font-size: 2.33rem; font-family: Dosis; line-height: 1.2em;"><span style="color: rgb(15, 48, 71); font-family: Dosis; line-height: 1.2em; text-shadow: rgb(15, 48, 71) 0px 0px 1px; font-size: 2.33rem;">SUMMIT PARTNERS</span></span></strong></p>
+</div>
+</div>
+<div data-component="divider" id="16f7XWhJHq">                            
+    <hr class="kartra_divider kartra_divider--border-extra-tiny kartra_divider--border-dim-black-opaque-25 pull-center kartra_divider--full" style="border-color: rgb(255, 160, 19); border-top-style: solid; border-top-width: 2px; margin: 0px auto 5px;">
+</div>
+</div></div></div>
+<div class="row row--equal background_changer--blur0" data-component="grid" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; margin-top: 10px; margin-bottom: 10px; background-image: none; opacity: 1;">
+<div class="column--vertical-center background_changer--blur0 col-md-3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder"><div data-component="image" href="javascript: void(0);" id="tM9B7gPFyy"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='//d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" alt="" style="margin: 5px auto; opacity: 1; width: 244px; max-width: 100%; height: auto; border-radius: 0px;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/2310026542098__6_.png"></div></div></div>
+<div class="column--vertical-center background_changer--blur0 col-md-3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder">
+<div data-component="image" href="javascript: void(0);"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='//d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" alt="" style="margin: 5px auto; opacity: 1; width: 162px; max-width: 100%; height: auto; border-radius: 0px;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/111379858448being-well.png"></div>
+<div data-component="image" href="javascript: void(0);"></div>
+<div data-component="image" href="javascript: void(0);"></div>
+</div></div>
+<div class="column--vertical-center background_changer--blur0 col-md-3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder">
+<div data-component="image" href="javascript: void(0);"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='//d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" alt="" style="margin: 5px auto; opacity: 1; width: 241px; max-width: 100%; height: auto; border-radius: 0px;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/26468621_1646193960agkConscious_Life.png"></div>
+<div data-component="image" href="javascript: void(0);"></div>
+</div></div>
+<div class="column--vertical-center background_changer--blur0 col-md-3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder">
+<div data-component="image" href="javascript: void(0);"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='//d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" alt="" style="margin: 5px auto; opacity: 1; width: 253px; max-width: 100%; height: auto; border-radius: 0px;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/560612303126Dawson_Church_UpLife.png"></div>
+<div data-component="image" href="javascript: void(0);"></div>
+<div data-component="image" href="javascript: void(0);"></div>
+</div></div>
+</div>
+<div class="row row--equal background_changer--blur0" data-component="grid" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; margin-top: 10px; margin-bottom: 10px; background-image: none; opacity: 1;">
+<div class="column--vertical-center background_changer--blur0 col-md-3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder">
+<div data-component="image" href="javascript: void(0);"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='//d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" alt="" style="margin: 5px auto; opacity: 1; width: 253px; max-width: 100%; height: auto; border-radius: 0px;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/26468303_1646192869gIREmbodiment_Unlimited.jpg"></div>
+<div data-component="image" href="javascript: void(0);"></div>
+</div></div>
+<div class="column--vertical-center background_changer--blur0 col-md-3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder">
+<div data-component="image" href="javascript: void(0);"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='//d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" alt="" style="margin: 5px auto; opacity: 1; width: 134px; max-width: 100%; height: auto; border-radius: 0px;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/1407898797233the-sacred-science.jpg"></div>
+<div data-component="image" href="javascript: void(0);"><span class="el_wrapper"></span></div>
+</div></div>
+<div class="column--vertical-center background_changer--blur0 col-md-3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder"><div data-component="image" href="javascript: void(0);"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='//d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" alt="" style="margin: 5px auto; opacity: 1; width: 211px; max-width: 100%; height: auto; border-radius: 0px;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/128810931691Urban-Monk-Logo-blk.png"></div></div></div>
+<div class="column--vertical-center background_changer--blur0 col-md-3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder"><div data-component="image" href="javascript: void(0);"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='//d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" alt="" style="margin: 5px auto; opacity: 1; width: 165px; max-width: 100%; height: auto; border-radius: 0px;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/209525116170spiritual-growth-events.jpg"></div></div></div>
+</div>
+<div class="row row--equal background_changer--blur0" data-component="grid" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; margin-top: 10px; margin-bottom: 10px; background-image: none; opacity: 1;" id="M1pmuyAWWm">
+<div class="column--vertical-center background_changer--blur0 col-md-3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder"><div data-component="image" href="javascript: void(0);"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='//d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" alt="" style="margin: 5px auto; opacity: 1; width: 211px; max-width: 100%; height: auto; border-radius: 0px;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/792590934865WisdomForLife_Logo.png"></div></div></div>
+<div class="column--vertical-center background_changer--blur0 col-md-3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder"><div data-component="image" href="javascript: void(0);"><img class="kartra_image kartra_image--full pull-center background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" onerror="this.onerror=null;this.src='//d2uolguxr56s4e.cloudfront.net/img/kartrapages/placeholder.jpg';" alt="" style="margin: 5px auto; opacity: 1; width: 208px; max-width: 100%; height: auto; border-radius: 0px;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/554747508285Wishing_Well_Promotions-Black.png"></div></div></div>
+<div class="column--vertical-center background_changer--blur0 col-md-3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"></div>
+<div class="column--vertical-center background_changer--blur0 col-md-3" alt="" style="background-color: rgba(0, 0, 0, 0); border-radius: 0px; border-style: none; border-width: 0px; padding: 0px 15px; background-image: none; opacity: 1;"><div class="js_kartra_component_holder"><div data-component="image" href="javascript: void(0);"><span class="el_wrapper"></span></div></div></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+<div class="content content--padding-medium content--padding-bottom-none light" style="background-color: rgb(21, 85, 129); padding: 30px 0px 0px;" id="_ux76bh33s">
+                <div class="background_changer background_changer--blur0" style="background-image: none; opacity: 0.5;" alt=""></div>
+                <div class="background_changer_overlay" style="background-image: none;"></div>
+                <div>
+                    <div>
+                        <div class="container">
+                            <div class="row row--equal" data-component="grid">
+                                <div class="column--vertical-bottom col-md-3">
+                                    <div class="js_kartra_component_holder">
+                                        <div data-component="image" id="MtqhMPadKn">
+                                            <picture><source type="image/webp" data-srcset="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/27718147_16510733453SMLogo_HMI_GraphicOnly_White_500px.webp"></source><source type="image/png" data-srcset="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/27718147_16510733453SMLogo_HMI_GraphicOnly_White_500px.png"></source><img class="kartra_image kartra_image--max-width-full sm-pull-center kartra_image--margin-bottom-extra-medium pull-left background_changer--blur0" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" style="margin: 0px 0px 15px; border-radius: 0px; opacity: 1; width: 145px; max-width: 100%; height: auto;" data-original="https://d11n7da8rpqbjy.cloudfront.net/fleetmaull/27718147_16510733453SMLogo_HMI_GraphicOnly_White_500px.png"></picture>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                                <div class="column--vertical-bottom col-md-2">
+                                    <div class="js_kartra_component_holder">
+                                        <div class="kartra_link_wrapper kartra_link_wrapper--flex kartra_link_wrapper--flex-direction-column kartra_link_wrapper--align-left kartra_link_wrapper--sm-align-center kartra_link_wrapper--md-margin-bottom-extra-small" data-component="bundle">
+                                            <a class="kartra_list__link kartra_list__link--open-sans-font kartra_list__link--font-weight-bold kartra_list__link--margin-bottom-extra-small kartra_list__link--white-smoke-grey kartra_list__link--hover-opacity-giant toggle_pagelink" href="https://www.heartmind.co/privacy-policy" data-frame-id="_ux76bh33s" style="color: rgb(245, 245, 245); font-weight: 700; font-family: Dosis;" target="_parent">Privacy Policy</a>
+                                            <a class="kartra_list__link kartra_list__link--open-sans-font kartra_list__link--font-weight-bold kartra_list__link--margin-bottom-extra-small kartra_list__link--white-smoke-grey kartra_list__link--hover-opacity-giant toggle_pagelink" href="https://www.heartmind.co/terms-of-service" data-frame-id="_ux76bh33s" style="color: rgb(245, 245, 245); font-weight: 700; font-family: Dosis;" target="_parent">Terms of Service</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="column--vertical-bottom col-md-2">
+                                    <div class="js_kartra_component_holder">
+                                        <div class="kartra_link_wrapper kartra_link_wrapper--flex kartra_link_wrapper--flex-direction-column kartra_link_wrapper--align-left kartra_link_wrapper--sm-align-center kartra_link_wrapper--md-margin-bottom-extra-small" data-component="bundle">
+                                            <a class="kartra_list__link kartra_list__link--open-sans-font kartra_list__link--font-weight-bold kartra_list__link--margin-bottom-extra-small kartra_list__link--white-smoke-grey kartra_list__link--hover-opacity-giant toggle_pagelink" href="https://www.heartmind.co/cancellation-policy" data-frame-id="_ux76bh33s" style="color: rgb(245, 245, 245); font-weight: 700; font-family: Dosis;" target="_parent">Cancellation Policy</a>
+                                            <a class="kartra_list__link kartra_list__link--open-sans-font kartra_list__link--font-weight-bold kartra_list__link--margin-bottom-extra-small kartra_list__link--white-smoke-grey kartra_list__link--hover-opacity-giant toggle_pagelink" href="https://www.heartmind.co/support" data-frame-id="_ux76bh33s" style="color: rgb(245, 245, 245); font-weight: 700; font-family: Dosis;" target="_parent">Contact Us</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="column--vertical-bottom col-md-3 col-md-offset-2">
+                                    <div class="js_kartra_component_holder">
+                                        <div data-component="headline">
+                                            <div class="kartra_headline kartra_headline--white-smoke-grey kartra_headline--open-sans-font kartra_headline--h5 kartra_headline--font-weight-bold kartra_headline--sm-text-center" style="position: relative; margin-top: 0px; margin-bottom: 5px;" aria-controls="cke_2789" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="font-size: 1rem; line-height: 1.2em;"><span style="font-family: Dosis; line-height: 1.2em; font-size: 1rem;">Heart Mind Institute</span></p>
+</div>
+                                        </div>
+                                        <div data-component="text">
+                                            <div class="kartra_text kartra_text--open-sans kartra_text--extra-dark-grey kartra_text--sm-text-center" style="position: relative; margin-bottom: 5px; margin-top: 0px;" aria-controls="cke_4296" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="font-size: 0.65rem; line-height: 1.4em;"><span style="color: rgb(255, 255, 255); font-family: Dosis; line-height: 1.4em; font-size: 0.65rem;"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8cfff9fcfce3fef8cce4e9edfef8e1e5e2e8a2efe3">[email&#160;protected]</a></span></p>
+
+<p style="font-size: 0.65rem; line-height: 1.4em;"><span style="color: rgb(255, 255, 255); font-family: Dosis; line-height: 1.4em; font-size: 0.65rem;">+1 (508) 613-2095</span></p>
+</div>
+                                        </div>
+                                        <div class="social_icons_wrapper social_icons_wrapper--flex social_icons_wrapper--align-left social_icons_wrapper--sm-align-center social_icons_wrapper--margin-bottom-extra-medium social_icons_wrapper--negative-margin-left-right-extra-tiny pull-left" data-component="bundle" style="margin: 0px -5px 30px;">
+                                            <div data-component="icon" href="javascript: void(0);">
+                                                <a href="https://facebook.com/heartmindinstitute/" class="toggle_pagelink" target="_blank" data-frame-id="_ux76bh33s"><div class="kartra_icon kartra_icon--circled kartra_icon--no-border kartra_icon--hover-opacity-medium kartra_icon--white kartra_icon--margin-left-right-extra-tiny kartra_icon--margin-bottom-extra-tiny kartra_icon--medium" style="background-color: rgb(255, 255, 255); margin: 0px auto 5px; border-color: rgb(29, 98, 146);">
+                                                    <span style="color: rgb(29, 98, 146);" class="kartra_icon__icon fa fa-facebook"></span>
+                                                </div></a>
+                                            </div>
+                                            
+                                            <div data-component="icon" href="javascript: void(0);">
+                                                <a href="https://www.linkedin.com/company/heartmindinstitute" class="toggle_pagelink" target="_blank" data-frame-id="_ux76bh33s"><div class="kartra_icon kartra_icon--circled kartra_icon--no-border kartra_icon--hover-opacity-medium kartra_icon--white kartra_icon--margin-left-right-extra-tiny kartra_icon--margin-bottom-extra-tiny kartra_icon--medium" style="background-color: rgb(255, 255, 255); margin: 0px auto 5px; border-color: rgb(29, 98, 146);">
+                                                    <span style="color: rgb(29, 98, 146);" class="kartra_icon__icon fa fa-linkedin"></span>
+                                                </div></a>
+                                            </div>
+                                            <div data-component="icon" href="javascript: void(0);">
+                                                <a href="https://www.instagram.com/heartmindinstitute" class="toggle_pagelink" target="_blank" data-frame-id="_ux76bh33s"><div class="kartra_icon kartra_icon--circled kartra_icon--no-border kartra_icon--hover-opacity-medium kartra_icon--white kartra_icon--margin-left-right-extra-tiny kartra_icon--margin-bottom-extra-tiny kartra_icon--medium" style="background-color: rgb(255, 255, 255); margin: 0px auto 5px; border-color: rgb(29, 98, 146);">
+                                                    <span style="color: rgb(29, 98, 146);" class="kartra_icon__icon fa fa-instagram"></span>
+                                                </div></a>
+                                            </div>
+                                            
+                                            <div data-component="icon" href="javascript: void(0);">
+                                                <a href="https://youtube.com/@heartmindinstitute" class="toggle_pagelink" target="_blank" data-frame-id="_ux76bh33s"><div class="kartra_icon kartra_icon--circled kartra_icon--no-border kartra_icon--hover-opacity-medium kartra_icon--white kartra_icon--margin-left-right-extra-tiny kartra_icon--margin-bottom-extra-tiny kartra_icon--medium" style="background-color: rgb(255, 255, 255); margin: 0px auto 5px; border-color: rgb(29, 98, 146);">
+                                                    <span style="color: rgb(29, 98, 146);" class="kartra_icon__icon fa fa-youtube-play"></span>
+                                                </div></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="kartra_element_bg kartra_element_bg--padding-top-special-medium kartra_element_bg--padding-bottom-tiny" data-component="bundle">
+                        <div style="background-color: #fafafa" class="background-item"></div>
+                        <div class="container">
+                            <div class="row row--equal" data-component="grid">
+                                <div class="col-md-12">
+                                    <div class="js_kartra_component_holder js_kartra_component_holder--height-auto">
+                                        <div data-component="text">
+                                            <div class="kartra_text kartra_text--open-sans kartra_text--font-weight-regular kartra_text--light-black kartra_text--text-center" style="position: relative; margin-top: 5px; margin-bottom: 15px;" aria-controls="cke_4682" aria-activedescendant="" aria-autocomplete="list" aria-expanded="false">
+<p style="font-size: 0.65rem; line-height: 1.2em;"><span style="font-family: Dosis; color: rgb(0, 0, 0); font-size: 0.65rem; line-height: 1.2em;">© <span style="font-family: Dosis; color: rgb(0, 0, 0); font-size: 0.65rem; line-height: 1.2em;"><span style="font-family: Dosis; color: rgb(0, 0, 0); font-size: 0.65rem; line-height: 1.2em;">Heart Mind Institute</span></span>. All Rights Reserved.</span></p>
+</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+</div>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://app.kartra.com/js/build/front/pages/jquery.lwtCountdown-enhanced.js"></script><script async defer src="https://app.kartra.com/js/build/front/pages/countdown.js"></script><script src="https://app.kartra.com/js/custom-parallax.js"></script>
+</div>
+<!-- /#page -->
+    <div style="height:0px;width:0px;opacity:0;position:fixed">
+        
+//hide custom form fields
+<style>
+input[name^="custom_"], .kartraico-edit, [id^="custom_"], label[for^="custom_"],textarea[placeholder="tracking_data"],textarea[placeholder="Tracking_data"] {
+    display: none !important;
+}
+</style>
+
+<!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://load.d.nervoussystemrebootsummit.com/ns.html?id=GTM-M76MLBNN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+    </div>
+    <div style="height:0px;width:0px;opacity:0;position:fixed">
+        
+    </div>
+
+    <!-- Load JS here for greater good =============================-->
+    <script src="/js/build/front/pages/skeleton-immediate.js"></script>
+    <script src="/js/build/front/pages/skeleton-below.js" async defer></script>
+    <script src="//app.kartra.com/resources/js/analytics/Rg3GX6gP" async defer></script>
+    <script src="//app.kartra.com/resources/js/page_check?page_id=cO6NC0Dn9R9c" async defer></script>
+    <script>
+    if (typeof window['jQuery'] !== 'undefined') {
+        window.jsVars = {"vendor_time_format":"12h","subaccountAccess":true,"page_title":"Nervous System Reboot","page_description":"The Science & Soul of Thriving","page_keywords":"Nervous System Reboot, The Science & Soul of Thriving, Heart Mind Institute","page_robots":"noindex, nofollow","secure_base_url":"\/\/app.kartra.com\/","global_id":"cO6NC0Dn9R9c"};
+        window.global_id = 'cO6NC0Dn9R9c';
+        window.secure_base_url = '//app.kartra.com/';
+
+        window.parent.postMessage({
+            title: window.jsVars.page_title,
+            description: window.jsVars.page_description,
+            keywords: window.jsVars.page_keywords,
+            robots: window.jsVars.page_robots,
+            domain: 'app.kartra.com'
+        }, '*');
+
+        // trigger the analytics on modal shown
+        jQuery(window).on('shown.bs.modal', function(e) {
+            if (typeof e.target !== 'undefined') {
+                var modalClass = e.target.className;
+                if (modalClass !== '') {
+                    var modalElements = document.getElementsByClassName(modalClass);
+                    if (typeof modalElements[0] !== 'undefined') {
+                        var event = new Event('kartra_show_hidden_asset');
+                        modalElements[0].dispatchEvent(event);
+                    }
+                }
+            }
+        });
+
+        if( typeof Porthole !== 'undefined' ) {
+            //domainn is a separate variable to domain
+            windowProxy= new Porthole.WindowProxy('//fleetmaull.kartra.com/front/deal/proxy');
+        }
+    }
+    </script>
+    <footer>
+        <div style="height:0px;width:0px;opacity:0;position:fixed">
+            
+        </div>
+    </footer>
+    <!-- GDPR cookie BANNER -->
+<div class="gdpr_flapjack_banner js_gdpr_flapjack_banner lang-var-{language_code}" style="display: none;">
+    <button type="button" class="gdpr-uncollapse-button js_show_gdpr_banner">
+        {:lang_general_banner_cookies}
+    </button>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="grid-gdpr-banner">
+                    <div>
+                        <div class="js_gdrp_cookie_banner_text gdpr-text">
+                            <div>
+                                <div>
+                                    {:lang_general_banner_cookie_disclaimer}
+                                    <div class="gdpr-links">
+                                        <a href="" target="_blank" class="">
+                                            {:lang_general_banner_cookie_cookie}
+                                        </a>
+                                        <span></span>
+                                        <a href="https://kartra.com/privacy-policy/" target="_blank" class="">
+                                            {:lang_general_banner_kartra_cookie}
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="gdpr_link_wrapper">
+                                    <a href="" target="_blank" class="js_gdpr_button">
+                                        {:lang_general_banner_cookie_privacy}
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdpr_button_block">
+                        <div>
+                            <button class="gdpr_decline_optional js_gdpr_accept" type="button" data-accept="required" data-type="kartra_page" data-type-id="4783" data-type-owner="Rg3GX6gP">
+                                {:lang_general_banner_cookie_only_essential}
+                            </button>
+                        </div>
+                        <div>
+                            <button class="gdpr_accept_all js_gdpr_accept" type="button" data-accept="all" data-type="kartra_page" data-type-id="4783" data-type-owner="Rg3GX6gP">
+                                {:lang_general_banner_cookie_accept_all}
+                            </button>
+                        </div>
+                    </div>
+                    <div class="powered-by-text">
+                        {:lang_general_powered_by} KARTRA
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--// GDPR cookie BANNER -->  
+
+    <script src="//app.kartra.com/resources/js/kartra_embed_wild_card?type=kartra_page&amp;owner=Rg3GX6gP"></script>
+</body>
+</html>
