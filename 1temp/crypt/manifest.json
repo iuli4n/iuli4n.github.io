@@ -1,5 +1,5 @@
 {
-  "name": "Encrypt/Decrypt App v6",
+  "name": "Encrypt/Decrypt App v1.7",
   "short_name": "EncryptApp",
   "start_url": "./crypt.html",
   "display": "standalone",

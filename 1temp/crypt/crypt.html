@@ -73,7 +73,7 @@
 	  }
 	</script>
 
-  <h2>🔐 Encrypt / Decrypt Text v6</h2>
+  <h2>🔐 Encrypt / Decrypt Text v1.7</h2>
 
   <input id="password" type="text" placeholder="Enter password">
 
@@ -182,7 +182,20 @@
 	function reset() {
 		document.getElementById('text').value = "";
 		document.getElementById('result').value = "";
+		localStorage.setItem("savedText", "");
 	}
+  </script>
+  
+  
+  <script>
+    // Keep the encrypted text area in storage
+	const textarea = document.getElementById("text");
+
+	textarea.value = localStorage.getItem("savedText") || "";
+
+	window.addEventListener("beforeunload", () => {
+		localStorage.setItem("savedText", textarea.value);
+	});
   </script>
 </body>
 </html>
