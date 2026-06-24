@@ -73,7 +73,7 @@
 	  }
 	</script>
 
-  <h2>🔐 Encrypt / Decrypt Text v1.7</h2>
+  <h2>🔐 Encrypt / Decrypt Text v1.8</h2>
 
   <input id="password" type="text" placeholder="Enter password">
 
@@ -90,6 +90,12 @@
   <button onclick="encryptText()">Encrypt</button>
   <button onclick="decryptText()">Decrypt</button>
   <button onclick="reset()">Clear</button>
+  
+	<div style="text-align:center;">
+	  <button onclick="saveCache()" id="saveCacheButton" style="font-size:11px; ">
+		Remember encryption text for next time
+	  </label>
+	</div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
   <script>
@@ -133,6 +139,7 @@
 
 	  
       document.getElementById('result').value = ciphertextB64;
+	  
     }
 
     function decryptText() {
@@ -167,6 +174,7 @@
       } catch {
         document.getElementById('result').value = "❌ Wrong password or invalid text!";
       }
+	  
     }
 
     async function copyResult() {
@@ -182,20 +190,22 @@
 	function reset() {
 		document.getElementById('text').value = "";
 		document.getElementById('result').value = "";
-		localStorage.setItem("savedText", "");
+	}
+	
+	function saveCache() {
+		const textarea = document.getElementById("text");
+		localStorage.setItem("savedText", textarea.value);
+		
+		document.getElementById("saveCacheButton").textContent += "✅";
+		
 	}
   </script>
   
   
   <script>
-    // Keep the encrypted text area in storage
+    // Get the encrypted text area from storage if exists
 	const textarea = document.getElementById("text");
-
 	textarea.value = localStorage.getItem("savedText") || "";
-
-	window.addEventListener("beforeunload", () => {
-		localStorage.setItem("savedText", textarea.value);
-	});
   </script>
 </body>
 </html>
